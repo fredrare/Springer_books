@@ -13,10 +13,9 @@ def mkdir(dir):
         os.mkdir(dir)
 
 def name_to_pdf(name, dir):
-    return '{}/{}.pdf'.format(dir, name)
+    return '{}/{}.pdf'.format(dir, name.replace('/', '-'))
 
 def downloader(url, name):
-    name = name.replace('/', '-')
     response = requests.get(url)
     with open(name, 'wb') as file:
         file.write(response.content)
@@ -56,7 +55,7 @@ def main(filename, path):
         _json = json.loads(''.join(file.readlines()).replace('\n',''))
     categories = list(_json.keys())
     categories_prompt = ['{} ({} books)'.format(item, len(_json[item])) for item in categories]
-    choices = choose('Selecciona una categoría', categories_prompt)
+    choices = choose('Select a category: ', categories_prompt)
     choices = [categories[i] for i in choices]
     for category in choices:
         print('{} Getting books from {} {}'.format('*'*10, category, '*'*10))
@@ -64,7 +63,7 @@ def main(filename, path):
         mkdir(subPath)
         books = next(os.walk(subPath))[2]
         for book in _json[category]:
-            if book['title'] + '.pdf' not in books:
+            if book['title'].replace('/', '-') + '.pdf' not in books:
                 print('-> Getting book: {}'.format(book['title']))
                 filename = name_to_pdf(book['title'], subPath)
                 downloader(book['url'], filename)
@@ -77,3 +76,4 @@ if __name__ == '__main__':
         print('{} <json with books data> <output folder>'.format(sys.argv[0]))
     else:
         main(sys.argv[1], sys.argv[2])
+
