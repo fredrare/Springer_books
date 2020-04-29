@@ -8,7 +8,7 @@ You can use this command to run the script
 ```
 This way, the books from the categories you select will be downloaded in
 the output folder. books.json contains a list of books grouped by
-category. *All the books from the selected category are downloaded*
+category. *Please keep in mind that all the books from the selected category are downloaded and the download speed is very low.*
 ## Customization
 If you want to modify the json for the books list, you can do it from a
 .csv file. Just use the jsongen.py and give the appropriate parameters
