@@ -1,0 +1,3642 @@
+{
+    "Computer Science": [
+        {
+            "title": "Pro Git",
+            "doi": "10.1007/978-1-4842-0076-6",
+            "authors": "Scott ChaconBen Straub",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-0076-6.pdf"
+        },
+        {
+            "title": "Policy-Oriented Technology Assessment Across Europe: Expanding Capacities",
+            "doi": "10.1007/978-1-137-56172-5",
+            "authors": "Lars Kl\u00fcverRasmus \u00d8jvind NielsenMarie Louise J\u00f8rgensen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-137-56172-5.pdf"
+        },
+        {
+            "title": "Managing Risk and Information Security",
+            "doi": "10.1007/978-1-4302-5114-9",
+            "authors": "Malcolm Harkins",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-5114-9.pdf"
+        },
+        {
+            "title": "Learn BlackBerry 10 App Development",
+            "doi": "10.1007/978-1-4302-6158-2",
+            "authors": "Anwar Ludin",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6158-2.pdf"
+        },
+        {
+            "title": "Subject-Oriented Business Process Management",
+            "doi": "10.1007/978-3-642-32392-8",
+            "authors": "Albert FleischmannWerner SchmidtChristian StaryStefan ObermeierEgon B\u00f6rger",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-32392-8.pdf"
+        },
+        {
+            "title": "Programming Persistent Memory",
+            "doi": "10.1007/978-1-4842-4932-1",
+            "authors": "Steve Scargall",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-4932-1.pdf"
+        },
+        {
+            "title": "The Future of Software Quality Assurance",
+            "doi": "10.1007/978-3-030-29509-7",
+            "authors": "Stephan Goericke",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-29509-7.pdf"
+        },
+        {
+            "title": "Android on x86",
+            "doi": "10.1007/978-1-4302-6131-5",
+            "authors": "Iggy KrajciDarren Cummings",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6131-5.pdf"
+        },
+        {
+            "title": "Managing Risk and Information Security",
+            "doi": "10.1007/978-1-4842-1455-8",
+            "authors": "Malcolm W. Harkins",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-1455-8.pdf"
+        },
+        {
+            "title": "Foundations of Software Science and Computation Structures",
+            "doi": "10.1007/978-3-030-17127-8",
+            "authors": "Prof. Miko\u0142aj Boja\u0144czykProf. Dr. Alex Simpson",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-17127-8.pdf"
+        },
+        {
+            "title": "Platform Embedded Security Technology Revealed",
+            "doi": "10.1007/978-1-4302-6572-6",
+            "authors": "Xiaoyu Ruan",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6572-6.pdf"
+        },
+        {
+            "title": "Entity-Oriented Search",
+            "doi": "10.1007/978-3-319-93935-3",
+            "authors": "Krisztian Balog",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-93935-3.pdf"
+        },
+        {
+            "title": "Intelligent Human Computer Interaction",
+            "doi": "10.1007/978-3-319-72038-8",
+            "authors": "Patrick HorainCatherine AchardMalik Mallem",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-72038-8.pdf"
+        },
+        {
+            "title": "Anti-fragile ICT Systems",
+            "doi": "10.1007/978-3-319-30070-2",
+            "authors": "Kjell J\u00f8rgen Hole",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-30070-2.pdf"
+        },
+        {
+            "title": "Computer and Information Sciences",
+            "doi": "10.1007/978-3-319-47217-1",
+            "authors": "Tadeusz Czach\u00f3rskiErol GelenbeKrzysztof GrochlaRicardo Lent",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-47217-1.pdf"
+        },
+        {
+            "title": "Principles of Security and Trust",
+            "doi": "10.1007/978-3-030-17138-4",
+            "authors": "Prof. Flemming NielsonDr. David Sands",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-17138-4.pdf"
+        },
+        {
+            "title": "The Essence of Software Engineering",
+            "doi": "10.1007/978-3-319-73897-0",
+            "authors": "Prof. Dr. Volker GruhnDr. R\u00fcdiger Striemer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-73897-0.pdf"
+        },
+        {
+            "title": "Sensor Technologies",
+            "doi": "10.1007/978-1-4302-6014-1",
+            "authors": "Michael J. McGrathCliodhna N\u00ed Scanaill",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6014-1.pdf"
+        },
+        {
+            "title": "Agile Processes in Software Engineering and Extreme Programming",
+            "doi": "10.1007/978-3-319-91602-6",
+            "authors": "Juan GarbajosaXiaofeng WangAdemar Aguiar",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-91602-6.pdf"
+        },
+        {
+            "title": "Re-engineering the Uptake of ICT in Schools",
+            "doi": "10.1007/978-3-319-19366-3",
+            "authors": "Frans Van AsscheLuis AnidoDavid GriffithsCathy LewinSarah McNicol",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-19366-3.pdf"
+        },
+        {
+            "title": "Programming Languages and Systems",
+            "doi": "10.1007/978-3-030-17184-1",
+            "authors": "Lu\u00eds Caires",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-17184-1.pdf"
+        },
+        {
+            "title": "Rethinking Productivity in Software Engineering",
+            "doi": "10.1007/978-1-4842-4221-6",
+            "authors": "Caitlin SadowskiThomas Zimmermann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-4221-6.pdf"
+        },
+        {
+            "title": "Tools and Algorithms for the Construction and Analysis of Systems",
+            "doi": "10.1007/978-3-030-17462-0",
+            "authors": "Prof. Tom\u00e1\u0161 VojnarProf. Lijun Zhang",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-17462-0.pdf"
+        },
+        {
+            "title": "Computation and the Humanities",
+            "doi": "10.1007/978-3-319-20170-2",
+            "authors": "Julianne NyhanAndrew Flinn",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-20170-2.pdf"
+        },
+        {
+            "title": "The Privacy Engineer\u2019s Manifesto",
+            "doi": "10.1007/978-1-4302-6356-2",
+            "authors": "Michelle Finneran DennedyJonathan FoxThomas R. Finneran",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6356-2.pdf"
+        },
+        {
+            "title": "Agile Processes in Software Engineering and Extreme Programming",
+            "doi": "10.1007/978-3-319-57633-6",
+            "authors": "Hubert BaumeisterHorst LichterMatthias Riebisch",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-57633-6.pdf"
+        },
+        {
+            "title": "Computer Aided Verification",
+            "doi": "10.1007/978-3-319-96145-3",
+            "authors": "Dr. Hana ChocklerGeorg Weissenbacher",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-96145-3.pdf"
+        },
+        {
+            "title": "Cloud-Based Benchmarking of Medical Image Analysis",
+            "doi": "10.1007/978-3-319-49644-3",
+            "authors": "Allan HanburyHenning M\u00fcllerGeorg Langs",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-49644-3.pdf"
+        },
+        {
+            "title": "Scaling a Software Business",
+            "doi": "10.1007/978-3-319-53116-8",
+            "authors": "Prof. Brian FitzgeraldDr. Klaas-Jan StolDr. Sten Min\u00f6rHenrik Cosmo",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-53116-8.pdf"
+        },
+        {
+            "title": "Security in Computer and Information Sciences",
+            "doi": "10.1007/978-3-319-95189-8",
+            "authors": "Prof. Dr. Erol GelenbePaolo CampegianiProf. Dr. Tadeusz Czach\u00f3rskiSokratis K. KatsikasIoannis KomniosLuigi RomanoDr. Dimitrios Tzovaras",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-95189-8.pdf"
+        },
+        {
+            "title": "Informatics in the Future",
+            "doi": "10.1007/978-3-319-55735-9",
+            "authors": "Hannes WerthnerFrank van Harmelen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-55735-9.pdf"
+        },
+        {
+            "title": "Tools and Algorithms for the Construction and Analysis of Systems",
+            "doi": "10.1007/978-3-030-17502-3",
+            "authors": "Dirk BeyerProf. Dr. Marieke HuismanFabrice KordonProf. Bernhard Steffen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-17502-3.pdf"
+        },
+        {
+            "title": "The Future Internet",
+            "doi": "10.1007/978-3-642-30241-1",
+            "authors": "Federico \u00c1lvarezFrances ClearyPetros DarasJohn DomingueAlex GalisAna GarciaAnastasius GavrasStamatis KarnourskosSrdjan KrcoMan-Sze LiVolkmar LotzHenning M\u00fcllerElio SalvadoriAnne-Marie SassenHans SchaffersBurkhard StillerGeorgios TselentisPetra TurkamaTheodore Zahariadis",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-30241-1.pdf"
+        },
+        {
+            "title": "Musical Haptics",
+            "doi": "10.1007/978-3-319-58316-7",
+            "authors": "Dr. Stefano PapettiCharalampos Saitis",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-58316-7.pdf"
+        },
+        {
+            "title": "Enabling Things to Talk",
+            "doi": "10.1007/978-3-642-40403-0",
+            "authors": "Alessandro BassiMartin BauerMartin FiedlerThorsten KrampRob van KranenburgSebastian LangeStefan Meissner",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-40403-0.pdf"
+        },
+        {
+            "title": "Fundamental Approaches to Software Engineering",
+            "doi": "10.1007/978-3-319-89363-1",
+            "authors": "Dr. Alessandra RussoAndy Sch\u00fcrr",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-89363-1.pdf"
+        },
+        {
+            "title": "Handbook of Vascular Biometrics",
+            "doi": "10.1007/978-3-030-27731-4",
+            "authors": "Prof. Dr. Andreas UhlProf. Christoph BuschDr. S\u00e9bastien MarcelProf. Dr. Raymond Veldhuis",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-27731-4.pdf"
+        },
+        {
+            "title": "Projection-Based Clustering through Self-Organization and Swarm Intelligence",
+            "doi": "10.1007/978-3-658-20540-9",
+            "authors": "Michael Christoph Thrun",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-20540-9.pdf"
+        },
+        {
+            "title": "Ray Tracing Gems",
+            "doi": "10.1007/978-1-4842-4427-2",
+            "authors": "Eric HainesTomas Akenine-M\u00f6ller",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-4427-2.pdf"
+        },
+        {
+            "title": "Android Application Development for the Intel\u00ae Platform",
+            "doi": "10.1007/978-1-4842-0100-8",
+            "authors": "Ryan CohenTao Wang",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-0100-8.pdf"
+        },
+        {
+            "title": "Office 365",
+            "doi": "10.1007/978-1-4302-6527-6",
+            "authors": "Matthew KatzerDon Crawford",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6527-6.pdf"
+        },
+        {
+            "title": "TouchDevelop: Programming on the Go",
+            "doi": "10.1007/978-1-4302-6137-7",
+            "authors": "R. Nigel HorspoolNikolai Tillmann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6137-7.pdf"
+        },
+        {
+            "title": "The InfoSec Handbook",
+            "doi": "10.1007/978-1-4302-6383-8",
+            "authors": "Umesh Hodeghatta RaoUmesha Nayak",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6383-8.pdf"
+        },
+        {
+            "title": "Programming Languages and Systems",
+            "doi": "10.1007/978-3-319-89884-1",
+            "authors": "Amal Ahmed",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-89884-1.pdf"
+        },
+        {
+            "title": "Tools and Algorithms for the Construction and Analysis of Systems",
+            "doi": "10.1007/978-3-030-17465-1",
+            "authors": "Prof. Tom\u00e1\u0161 VojnarLijun Zhang",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-17465-1.pdf"
+        },
+        {
+            "title": "Computer Vision Metrics",
+            "doi": "10.1007/978-1-4302-5930-5",
+            "authors": "Scott Krig",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-5930-5.pdf"
+        },
+        {
+            "title": "Agile Processes in Software Engineering and Extreme Programming",
+            "doi": "10.1007/978-3-030-19034-7",
+            "authors": "Philippe KruchtenSteven FraserDr. Fran\u00e7ois Coallier",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-19034-7.pdf"
+        },
+        {
+            "title": "Handbook on Craniofacial Superimposition",
+            "doi": "10.1007/978-3-319-11137-7",
+            "authors": "Prof. Sergio DamasProf. Oscar Cord\u00f3nDr. Oscar Ib\u00e1\u00f1ez",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-11137-7.pdf"
+        },
+        {
+            "title": "Intel\u00ae Xeon Phi\u2122 Coprocessor Architecture and Tools",
+            "doi": "10.1007/978-1-4302-5927-5",
+            "authors": "Rezaur Rahman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-5927-5.pdf"
+        },
+        {
+            "title": "New Horizons for a Data-Driven Economy",
+            "doi": "10.1007/978-3-319-21569-3",
+            "authors": "Jos\u00e9 Mar\u00eda CavanillasEdward CurryWolfgang Wahlster",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-21569-3.pdf"
+        },
+        {
+            "title": "Open Source Systems: Towards Robust Practices",
+            "doi": "10.1007/978-3-319-57735-7",
+            "authors": "Federico BalaguerRoberto Di CosmoAlejandra GarridoFabio KonGregorio RoblesStefano Zacchiroli",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-57735-7.pdf"
+        },
+        {
+            "title": "The Huawei and Snowden Questions",
+            "doi": "10.1007/978-3-319-74950-1",
+            "authors": "Prof. Dr. Olav Lysne",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-74950-1.pdf"
+        },
+        {
+            "title": "Autonomous Control for a Reliable Internet of Services",
+            "doi": "10.1007/978-3-319-90415-3",
+            "authors": "Ivan GanchevR. D. van der MeiHans van den Berg",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-90415-3.pdf"
+        },
+        {
+            "title": "Supercomputing Frontiers",
+            "doi": "10.1007/978-3-319-69953-0",
+            "authors": "Rio YokotaWeigang Wu",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-69953-0.pdf"
+        },
+        {
+            "title": "Enhanced Living Environments",
+            "doi": "10.1007/978-3-030-10752-9",
+            "authors": "Ivan GanchevNuno M. GarciaProf. Ciprian DobreDr. Constandinos X. MavromoustakisRossitza Goleva",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-10752-9.pdf"
+        },
+        {
+            "title": "Computer Aided Verification",
+            "doi": "10.1007/978-3-030-25540-4",
+            "authors": "Isil DilligSerdar Tasiran",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-25540-4.pdf"
+        },
+        {
+            "title": "Bisociative Knowledge Discovery",
+            "doi": "10.1007/978-3-642-31830-6",
+            "authors": "Michael R. Berthold",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-31830-6.pdf"
+        },
+        {
+            "title": "Foundations of Software Science and Computation Structures",
+            "doi": "10.1007/978-3-319-89366-2",
+            "authors": "Christel BaierUgo Dal Lago",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-89366-2.pdf"
+        },
+        {
+            "title": "Linked Open Data -- Creating Knowledge Out of Interlinked Data",
+            "doi": "10.1007/978-3-319-09846-3",
+            "authors": "S\u00f6ren AuerVolha BrylSebastian Tramp",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-09846-3.pdf"
+        },
+        {
+            "title": "The Amazing Journey of Reason",
+            "doi": "10.1007/978-3-030-25962-4",
+            "authors": "Mario Alemi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-25962-4.pdf"
+        },
+        {
+            "title": "High-Performance Modelling and Simulation for Big Data Applications",
+            "doi": "10.1007/978-3-030-16272-6",
+            "authors": "Joanna Ko\u0142odziejDr. Horacio Gonz\u00e1lez-V\u00e9lez",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-16272-6.pdf"
+        },
+        {
+            "title": "Pro TBB",
+            "doi": "10.1007/978-1-4842-4398-5",
+            "authors": "Michael VossRafael AsenjoJames Reinders",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-4398-5.pdf"
+        },
+        {
+            "title": "Supercomputing Frontiers",
+            "doi": "10.1007/978-3-030-18645-6",
+            "authors": "David AbramsonBronis R. de Supinski",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-18645-6.pdf"
+        },
+        {
+            "title": "VR Technologies in Cultural Heritage",
+            "doi": "10.1007/978-3-030-05819-7",
+            "authors": "Mihai Dugulean\u0103Marcello CarrozzinoMatja\u017e GamsIulian Tanea",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-05819-7.pdf"
+        },
+        {
+            "title": "Intertwingled",
+            "doi": "10.1007/978-3-319-16925-5",
+            "authors": "Douglas R. DechowDaniele C. Struppa",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-16925-5.pdf"
+        },
+        {
+            "title": "High Performance Computing",
+            "doi": "10.1007/978-3-030-34356-9",
+            "authors": "Mich\u00e8le WeilandDr. Guido JuckelandSadaf AlamHeike Jagode",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-34356-9.pdf"
+        },
+        {
+            "title": "S-BPM Illustrated",
+            "doi": "10.1007/978-3-642-36904-9",
+            "authors": "Albert FleischmannStefan Ra\u00dfRobert Singer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-36904-9.pdf"
+        },
+        {
+            "title": "Medical Imaging Systems",
+            "doi": "10.1007/978-3-319-96520-8",
+            "authors": "Andreas MaierStefan SteidlVincent ChristleinJoachim Hornegger",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-96520-8.pdf"
+        },
+        {
+            "title": "Managed Software Evolution",
+            "doi": "10.1007/978-3-030-13499-0",
+            "authors": "Prof. Dr. Ralf ReussnerProf. Dr. Michael GoedickeProf. Dr. Wilhelm HasselbringProf. Birgit Vogel-HeuserProf. Dr. Jan KeimLukas M\u00e4rtin",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-13499-0.pdf"
+        },
+        {
+            "title": "Internet of Things. Information Processing in an Increasingly Connected World",
+            "doi": "10.1007/978-3-030-15651-0",
+            "authors": "Leon StrousDr. Vinton G. Cerf",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-15651-0.pdf"
+        },
+        {
+            "title": "Cyber-Physical Systems of Systems",
+            "doi": "10.1007/978-3-319-47590-5",
+            "authors": "Andrea BondavalliSara BouchenakHermann Kopetz",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-47590-5.pdf"
+        },
+        {
+            "title": "A Practical Guide to TPM 2.0",
+            "doi": "10.1007/978-1-4302-6584-9",
+            "authors": "Will ArthurDavid ChallenerKenneth Goldman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6584-9.pdf"
+        },
+        {
+            "title": "S-BPM in the Wild",
+            "doi": "10.1007/978-3-319-17542-3",
+            "authors": "Albert FleischmannWerner SchmidtChristian Stary",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-17542-3.pdf"
+        },
+        {
+            "title": "Natural Computing and Beyond",
+            "doi": "10.1007/978-4-431-54394-7",
+            "authors": "Yasuhiro SuzukiToshiyuki Nakagaki",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-4-431-54394-7.pdf"
+        },
+        {
+            "title": "Computer Aided Verification",
+            "doi": "10.1007/978-3-030-25543-5",
+            "authors": "Isil DilligSerdar Tasiran",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-25543-5.pdf"
+        },
+        {
+            "title": "Rethinking the Internet of Things",
+            "doi": "10.1007/978-1-4302-5741-7",
+            "authors": "Francis daCosta",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-5741-7.pdf"
+        },
+        {
+            "title": "Demystifying Internet of Things Security",
+            "doi": "10.1007/978-1-4842-2896-8",
+            "authors": "Sunil CheruvuAnil KumarNed SmithDavid M. Wheeler",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-2896-8.pdf"
+        },
+        {
+            "title": "Language Technologies for the Challenges of the Digital Age",
+            "doi": "10.1007/978-3-319-73706-5",
+            "authors": "Dr. Georg RehmThierry Declerck",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-73706-5.pdf"
+        },
+        {
+            "title": "Intel\u00ae Trusted Execution Technology for Server Platforms",
+            "doi": "10.1007/978-1-4302-6149-0",
+            "authors": "William FutralJames Greene",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6149-0.pdf"
+        },
+        {
+            "title": "Intel\u00ae Galileo and Intel\u00ae Galileo Gen 2",
+            "doi": "10.1007/978-1-4302-6838-3",
+            "authors": "Manoel Carlos Ramon",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6838-3.pdf"
+        },
+        {
+            "title": "Building the Infrastructure for Cloud Security",
+            "doi": "10.1007/978-1-4302-6146-9",
+            "authors": "Raghu YeluriEnrique Castro-Leon",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6146-9.pdf"
+        },
+        {
+            "title": "Security of Networks and Services in an All-Connected World",
+            "doi": "10.1007/978-3-319-60774-0",
+            "authors": "Daphne TuncerRobert KochR\u00e9mi BadonnelProf. Dr. Burkhard Stiller",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-60774-0.pdf"
+        },
+        {
+            "title": "Agile Processes in Software Engineering and Extreme Programming \u2013 Workshops",
+            "doi": "10.1007/978-3-030-30126-2",
+            "authors": "Dr. Rashina Hoda",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-30126-2.pdf"
+        },
+        {
+            "title": "DevOps for Digital Leaders",
+            "doi": "10.1007/978-1-4842-1842-6",
+            "authors": "Aruna RavichandranKieran TaylorPeter Waterhouse",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-1842-6.pdf"
+        },
+        {
+            "title": "Tools and Algorithms for the Construction and Analysis of Systems",
+            "doi": "10.1007/978-3-319-89960-2",
+            "authors": "Prof. Dr. Dirk BeyerProf. Dr. Marieke Huisman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-89960-2.pdf"
+        },
+        {
+            "title": "Semantic Systems. The Power of AI and Knowledge Graphs",
+            "doi": "10.1007/978-3-030-33220-4",
+            "authors": "Maribel AcostaPhilippe Cudr\u00e9-MaurouxMaria MaleshkovaProf. Dr. Tassilo PellegriniDr. Harald SackProf. Dr. York Sure-Vetter",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-33220-4.pdf"
+        },
+        {
+            "title": "Principles of Security and Trust",
+            "doi": "10.1007/978-3-319-89722-6",
+            "authors": "Lujo BauerRalf K\u00fcsters",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-89722-6.pdf"
+        },
+        {
+            "title": "Elements of Robotics",
+            "doi": "10.1007/978-3-319-62533-1",
+            "authors": "Prof. Mordechai Ben-AriProf. Dr. Francesco Mondada",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-62533-1.pdf"
+        },
+        {
+            "title": "Digital Video Concepts, Methods, and Metrics",
+            "doi": "10.1007/978-1-4302-6713-3",
+            "authors": "Shahriar Akramullah",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6713-3.pdf"
+        },
+        {
+            "title": "Clinical Text Mining",
+            "doi": "10.1007/978-3-319-78503-5",
+            "authors": "Prof. Hercules Dalianis",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-78503-5.pdf"
+        },
+        {
+            "title": "META-NET Strategic Research Agenda for Multilingual Europe 2020",
+            "doi": "10.1007/978-3-642-36349-8",
+            "authors": "Georg RehmHans Uszkoreit",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-36349-8.pdf"
+        },
+        {
+            "title": "The Future Internet",
+            "doi": "10.1007/978-3-642-38082-2",
+            "authors": "Alex GalisAnastasius Gavras",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-38082-2.pdf"
+        },
+        {
+            "title": "How AI Impacts Urban Living and Public Health",
+            "doi": "10.1007/978-3-030-32785-9",
+            "authors": "Jos\u00e9 Pag\u00e1nMounir MokhtariHamdi AloulouProf. Bessam AbdulrazakProf. Mar\u00eda Fernanda Cabrera",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-32785-9.pdf"
+        },
+        {
+            "title": "Interdisciplinary Insights for Digital Touch Communication",
+            "doi": "10.1007/978-3-030-24564-1",
+            "authors": "Prof. Carey JewittSara PriceDr. Kerstin Leder MackleyDr. Nikoleta YiannoutsouDouglas Atkinson",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-24564-1.pdf"
+        },
+        {
+            "title": "Real-time Linked Dataspaces",
+            "doi": "10.1007/978-3-030-29665-0",
+            "authors": "Edward Curry",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-29665-0.pdf"
+        },
+        {
+            "title": "Cyber Security",
+            "doi": "10.1007/978-981-13-6621-5",
+            "authors": "Xiaochun YunWeiping WenBo LangHanbing YanLi DingJia LiYu Zhou",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-6621-5.pdf"
+        },
+        {
+            "title": "Automated Machine Learning",
+            "doi": "10.1007/978-3-030-05318-5",
+            "authors": "Prof. Dr. Frank HutterLars KotthoffPh.D. Joaquin Vanschoren",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-05318-5.pdf"
+        },
+        {
+            "title": "GUI Design for Android Apps",
+            "doi": "10.1007/978-1-4842-0382-8",
+            "authors": "Ryan CohenTao Wang",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-0382-8.pdf"
+        },
+        {
+            "title": "Efficient Learning Machines",
+            "doi": "10.1007/978-1-4302-5990-9",
+            "authors": "Mariette AwadRahul Khanna",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-5990-9.pdf"
+        },
+        {
+            "title": "S-BPM in the Production Industry",
+            "doi": "10.1007/978-3-319-48466-2",
+            "authors": "Matthias NeubauerChristian Stary",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-48466-2.pdf"
+        },
+        {
+            "title": "Multiple-Aspect Analysis of Semantic Trajectories",
+            "doi": "10.1007/978-3-030-38081-6",
+            "authors": "Dr. Konstantinos TserpesChiara RensoProf. Stan Matwin",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-38081-6.pdf"
+        },
+        {
+            "title": "Tools and Algorithms for the Construction and Analysis of Systems",
+            "doi": "10.1007/978-3-319-89963-3",
+            "authors": "Dirk BeyerProf. Dr. Marieke Huisman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-89963-3.pdf"
+        },
+        {
+            "title": "Embedded Firmware Solutions",
+            "doi": "10.1007/978-1-4842-0070-4",
+            "authors": "Jiming SunMarc JonesStefan ReinauerVincent Zimmer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-0070-4.pdf"
+        },
+        {
+            "title": "Energy Efficient Servers",
+            "doi": "10.1007/978-1-4302-6638-9",
+            "authors": "Corey GoughIan SteinerWinston Saunders",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6638-9.pdf"
+        },
+        {
+            "title": "Computer Aided Verification",
+            "doi": "10.1007/978-3-319-96142-2",
+            "authors": "Dr. Hana ChocklerGeorg Weissenbacher",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-96142-2.pdf"
+        },
+        {
+            "title": "Ganzheitliche Digitalisierung von Prozessen",
+            "doi": "10.1007/978-3-658-22648-0",
+            "authors": "Dr. Albert FleischmannDr. Stefan OpplProf. Dr. Werner SchmidtProf. Dr. Christian Stary",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-22648-0.pdf"
+        },
+        {
+            "title": "Contextual Process Digitalization",
+            "doi": "10.1007/978-3-030-38300-8",
+            "authors": "Dr. Albert FleischmannUniv.-Prof. Dr. Stefan OpplProf. Dr. Werner SchmidtChristian Stary",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-38300-8.pdf"
+        },
+        {
+            "title": "Optimizing HPC Applications with Intel\u00ae Cluster Tools",
+            "doi": "10.1007/978-1-4302-6497-2",
+            "authors": "Alexander SupalovAndrey SeminMichael KlemmChristopher Dahnken",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4302-6497-2.pdf"
+        },
+        {
+            "title": "CyberParks \u2013 The Interface Between People, Places and Technology",
+            "doi": "10.1007/978-3-030-13417-4",
+            "authors": "Carlos Smaniotto CostaIna \u0160uklje ErjavecTherese KennaDr. Michiel de LangeKonstantinos IoannidisGabriela MaksymiukMartijn de Waal",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-13417-4.pdf"
+        },
+        {
+            "title": "Symbiotic Interaction",
+            "doi": "10.1007/978-3-319-57753-1",
+            "authors": "Luciano GamberiniAnna SpagnolliGiulio JacucciBenjamin BlankertzJonathan Freeman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-57753-1.pdf"
+        },
+        {
+            "title": "Fundamental Approaches to Software Engineering",
+            "doi": "10.1007/978-3-030-16722-6",
+            "authors": "Prof. Reiner H\u00e4hnleWil van der Aalst",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-16722-6.pdf"
+        },
+        {
+            "title": "Telecommunication Economics",
+            "doi": "10.1007/978-3-642-30382-1",
+            "authors": "Antonis M. HadjiantonisBurkhard Stiller",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-30382-1.pdf"
+        },
+        {
+            "title": "The Future Internet",
+            "doi": "10.1007/978-3-642-20898-0",
+            "authors": "John DomingueAlex GalisAnastasius GavrasTheodore ZahariadisDave LambertFrances ClearyPetros DarasSrdjan KrcoHenning M\u00fcllerMan-Sze LiHans SchaffersVolkmar LotzFederico AlvarezBurkhard StillerStamatis KarnouskosSusanna AvesstaMichael Nilsson",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-20898-0.pdf"
+        },
+        {
+            "title": "Introductory Computer Forensics",
+            "doi": "10.1007/978-3-030-00581-8",
+            "authors": "Xiaodong Lin",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-00581-8.pdf"
+        },
+        {
+            "title": "Java in Two Semesters",
+            "doi": "10.1007/978-3-319-99420-8",
+            "authors": "Dr. Quentin CharatanDr. Aaron Kans",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-99420-8.pdf"
+        },
+        {
+            "title": "Python Programming Fundamentals",
+            "doi": "10.1007/978-1-4471-6642-9",
+            "authors": "Kent D. Lee",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4471-6642-9.pdf"
+        },
+        {
+            "title": "A Beginner's Guide to Scala, Object Orientation and Functional Programming",
+            "doi": "10.1007/978-3-319-75771-1",
+            "authors": "Dr. John Hunt",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-75771-1.pdf"
+        },
+        {
+            "title": "Introduction to Parallel Computing",
+            "doi": "10.1007/978-3-319-98833-7",
+            "authors": "Dr. Roman TrobecProf. Bo\u0161tjan SlivnikProf. Patricio Buli\u0107Prof. Borut Robi\u010d",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-98833-7.pdf"
+        },
+        {
+            "title": "Foundations for Designing User-Centered Systems",
+            "doi": "10.1007/978-1-4471-5134-0",
+            "authors": "Frank E. RitterGordon D. BaxterElizabeth F. Churchill",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4471-5134-0.pdf"
+        },
+        {
+            "title": "Logical Foundations of Cyber-Physical Systems",
+            "doi": "10.1007/978-3-319-63588-0",
+            "authors": "Prof. Andr\u00e9 Platzer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-63588-0.pdf"
+        },
+        {
+            "title": "Introduction to Data Science",
+            "doi": "10.1007/978-3-319-50017-1",
+            "authors": "Laura IgualSanti Segu\u00ed",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-50017-1.pdf"
+        },
+        {
+            "title": "Data Mining",
+            "doi": "10.1007/978-3-319-14142-8",
+            "authors": "Charu C. Aggarwal",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-14142-8.pdf"
+        },
+        {
+            "title": "Foundations of Programming Languages",
+            "doi": "10.1007/978-3-319-70790-7",
+            "authors": "Prof. Kent D. Lee",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-70790-7.pdf"
+        },
+        {
+            "title": "Fundamentals of Java Programming",
+            "doi": "10.1007/978-3-319-89491-1",
+            "authors": "Mitsunori Ogihara",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-89491-1.pdf"
+        },
+        {
+            "title": "Systems Programming in Unix/Linux",
+            "doi": "10.1007/978-3-319-92429-8",
+            "authors": "K.C. Wang",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-92429-8.pdf"
+        },
+        {
+            "title": "Introduction to Artificial Intelligence",
+            "doi": "10.1007/978-3-319-58487-4",
+            "authors": "Prof. Dr. Wolfgang Ertel",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-58487-4.pdf"
+        },
+        {
+            "title": "Recommender Systems",
+            "doi": "10.1007/978-3-319-29659-3",
+            "authors": "Charu C. Aggarwal",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-29659-3.pdf"
+        },
+        {
+            "title": "Data Structures and Algorithms with Python",
+            "doi": "10.1007/978-3-319-13072-9",
+            "authors": "Kent D. LeeSteve Hubbard",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-13072-9.pdf"
+        },
+        {
+            "title": "Automata and Computability",
+            "doi": "10.1007/978-1-4612-1844-9",
+            "authors": "Dexter C. Kozen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4612-1844-9.pdf"
+        },
+        {
+            "title": "UML @ Classroom",
+            "doi": "10.1007/978-3-319-12742-2",
+            "authors": "Martina SeidlMarion ScholzChristian HuemerGerti Kappel",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-12742-2.pdf"
+        },
+        {
+            "title": "Principles of Data Mining",
+            "doi": "10.1007/978-1-4471-7307-6",
+            "authors": "Max Bramer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4471-7307-6.pdf"
+        },
+        {
+            "title": "The Algorithm Design Manual",
+            "doi": "10.1007/978-1-84800-070-4",
+            "authors": "Steven S. Skiena",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-84800-070-4.pdf"
+        },
+        {
+            "title": "Advanced Guide to Python 3 Programming",
+            "doi": "10.1007/978-3-030-25943-3",
+            "authors": "Dr. John Hunt",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-25943-3.pdf"
+        },
+        {
+            "title": "Understanding Cryptography",
+            "doi": "10.1007/978-3-642-04101-3",
+            "authors": "Christof PaarJan Pelzl",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-04101-3.pdf"
+        },
+        {
+            "title": "Introduction to Programming with Fortran",
+            "doi": "10.1007/978-3-319-75502-1",
+            "authors": "Ian ChiversJane Sleightholme",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-75502-1.pdf"
+        },
+        {
+            "title": "Computer Vision",
+            "doi": "10.1007/978-1-84882-935-0",
+            "authors": "Richard Szeliski",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-84882-935-0.pdf"
+        },
+        {
+            "title": "Guide to Competitive Programming",
+            "doi": "10.1007/978-3-319-72547-5",
+            "authors": "Antti Laaksonen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-72547-5.pdf"
+        },
+        {
+            "title": "Responsible Design, Implementation and Use of Information and Communication Technology",
+            "doi": "10.1007/978-3-030-44999-5",
+            "authors": "Mari\u00e9 HattinghMachdel MattheeHanlie SmutsDr. Ilias PappasPh.D. Yogesh K. DwivediMatti M\u00e4ntym\u00e4ki",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-44999-5.pdf"
+        },
+        {
+            "title": "Data Science and Predictive Analytics",
+            "doi": "10.1007/978-3-319-72347-1",
+            "authors": "Ivo D. Dinov",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-72347-1.pdf"
+        },
+        {
+            "title": "The Python Workbook",
+            "doi": "10.1007/978-3-319-14240-1",
+            "authors": "Ben Stephenson",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-14240-1.pdf"
+        },
+        {
+            "title": "Fundamentals of Business Process Management",
+            "doi": "10.1007/978-3-642-33143-5",
+            "authors": "Marlon DumasMarcello La RosaJan MendlingHajo A. Reijers",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-33143-5.pdf"
+        },
+        {
+            "title": "Guide to Scientific Computing in C++",
+            "doi": "10.1007/978-3-319-73132-2",
+            "authors": "Dr. Joe Pitt-FrancisProf. Jonathan Whiteley",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-73132-2.pdf"
+        },
+        {
+            "title": "A Beginners Guide to Python 3 Programming",
+            "doi": "10.1007/978-3-030-20290-3",
+            "authors": "Dr. John Hunt",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-20290-3.pdf"
+        },
+        {
+            "title": "An Introduction to Machine Learning",
+            "doi": "10.1007/978-3-319-63913-0",
+            "authors": "Miroslav Kubat",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-63913-0.pdf"
+        },
+        {
+            "title": "Objektorientierte Programmierung mit JavaScript",
+            "doi": "10.1007/978-3-658-21077-9",
+            "authors": "Dr. J\u00f6rg Bewersdorff",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-21077-9.pdf"
+        },
+        {
+            "title": "Responsible Design, Implementation and Use of Information and Communication Technology",
+            "doi": "10.1007/978-3-030-45002-1",
+            "authors": "Mari\u00e9 HattinghMachdel MattheeHanlie SmutsDr. Ilias PappasPh.D. Yogesh K. DwivediMatti M\u00e4ntym\u00e4ki",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-45002-1.pdf"
+        },
+        {
+            "title": "Fundamentals of Multimedia",
+            "doi": "10.1007/978-3-319-05290-8",
+            "authors": "Ze-Nian LiMark S. DrewJiangchuan Liu",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-05290-8.pdf"
+        },
+        {
+            "title": "Eye Tracking Methodology",
+            "doi": "10.1007/978-3-319-57883-5",
+            "authors": "Andrew T. Duchowski",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-57883-5.pdf"
+        },
+        {
+            "title": "Introduction to Deep Learning",
+            "doi": "10.1007/978-3-319-73004-2",
+            "authors": "Dr. Sandro Skansi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-73004-2.pdf"
+        },
+        {
+            "title": "Modelling Computing Systems",
+            "doi": "10.1007/978-1-84800-322-4",
+            "authors": "Faron MollerGeorg Struth",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-84800-322-4.pdf"
+        },
+        {
+            "title": "Concise Guide to Software Engineering",
+            "doi": "10.1007/978-3-319-57750-0",
+            "authors": "Gerard O'Regan",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-57750-0.pdf"
+        },
+        {
+            "title": "Cryptography Made Simple",
+            "doi": "10.1007/978-3-319-21936-3",
+            "authors": "Nigel P. Smart",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-21936-3.pdf"
+        },
+        {
+            "title": "Guide to Computer Network Security",
+            "doi": "10.1007/978-3-319-55606-2",
+            "authors": "Joseph Migga Kizza",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-55606-2.pdf"
+        },
+        {
+            "title": "Digital Image Processing",
+            "doi": "10.1007/978-1-4471-6684-9",
+            "authors": "Wilhelm BurgerMark J. Burge",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4471-6684-9.pdf"
+        },
+        {
+            "title": "Introduction to Evolutionary Computing",
+            "doi": "10.1007/978-3-662-44874-8",
+            "authors": "A.E. EibenJ.E. Smith",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-44874-8.pdf"
+        },
+        {
+            "title": "Computational Geometry",
+            "doi": "10.1007/978-3-540-77974-2",
+            "authors": "Prof. Dr. Mark de BergDr. Otfried CheongDr. Marc van KreveldProf. Dr. Mark Overmars",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-540-77974-2.pdf"
+        },
+        {
+            "title": "Analysis for Computer Scientists",
+            "doi": "10.1007/978-3-319-91155-7",
+            "authors": "Univ.-Prof. Dr. Dr. Michael OberguggenbergerUniv.-Prof. Dr. Alexander Ostermann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-91155-7.pdf"
+        },
+        {
+            "title": "Fundamentals of Business Process Management",
+            "doi": "10.1007/978-3-662-56509-4",
+            "authors": "Marlon DumasProf. Dr. Marcello La RosaProf. Dr. Jan MendlingHajo A. Reijers",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-56509-4.pdf"
+        },
+        {
+            "title": "The Elements of Statistical Learning",
+            "doi": "10.1007/978-0-387-84858-7",
+            "authors": "Trevor HastieRobert TibshiraniJerome Friedman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-0-387-84858-7.pdf"
+        },
+        {
+            "title": "Neural Networks and Deep Learning",
+            "doi": "10.1007/978-3-319-94463-0",
+            "authors": "Dr. Charu C. Aggarwal",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-94463-0.pdf"
+        },
+        {
+            "title": "Object-Oriented Analysis, Design and Implementation",
+            "doi": "10.1007/978-3-319-24280-4",
+            "authors": "Brahma DathanSarnath Ramnath",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-24280-4.pdf"
+        },
+        {
+            "title": "Guide to Discrete Mathematics",
+            "doi": "10.1007/978-3-319-44561-8",
+            "authors": "Gerard O'Regan",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-44561-8.pdf"
+        },
+        {
+            "title": "Probability and Statistics for Computer Science",
+            "doi": "10.1007/978-3-319-64410-3",
+            "authors": "David Forsyth",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-64410-3.pdf"
+        },
+        {
+            "title": "Concise Guide to Databases",
+            "doi": "10.1007/978-1-4471-5601-7",
+            "authors": "Peter LakePaul Crowther",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4471-5601-7.pdf"
+        },
+        {
+            "title": "The Data Science Design Manual",
+            "doi": "10.1007/978-3-319-55444-0",
+            "authors": "Steven S. Skiena",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-55444-0.pdf"
+        }
+    ],
+    "Education": [
+        {
+            "title": "Higher Education in the Era of the Fourth Industrial Revolution",
+            "doi": "10.1007/978-981-13-0194-0",
+            "authors": "Nancy W. Gleason",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-0194-0.pdf"
+        },
+        {
+            "title": "The Proceedings of the 12th International Congress on Mathematical Education",
+            "doi": "10.1007/978-3-319-12688-3",
+            "authors": "Sung Je Cho",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-12688-3.pdf"
+        },
+        {
+            "title": "Computational Thinking Education",
+            "doi": "10.1007/978-981-13-6528-7",
+            "authors": "Siu-Cheung KongHarold Abelson",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-6528-7.pdf"
+        },
+        {
+            "title": "Research Assessment in the Humanities",
+            "doi": "10.1007/978-3-319-29016-4",
+            "authors": "Michael OchsnerSven E. HugHans-Dieter Daniel",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-29016-4.pdf"
+        },
+        {
+            "title": "Sustainability, Human Well-Being, and the Future of Education",
+            "doi": "10.1007/978-3-319-78580-6",
+            "authors": "Prof. Justin W. Cook",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-78580-6.pdf"
+        },
+        {
+            "title": "Responsive Open Learning Environments",
+            "doi": "10.1007/978-3-319-02399-1",
+            "authors": "Sylvana KroopAlexander MikroyannidisMartin Wolpers",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-02399-1.pdf"
+        },
+        {
+            "title": "The Crisis for Young People",
+            "doi": "10.1007/978-3-319-58547-5",
+            "authors": "Prof. Andy Green",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-58547-5.pdf"
+        },
+        {
+            "title": "Instructional Scaffolding in STEM Education",
+            "doi": "10.1007/978-3-319-02565-0",
+            "authors": "Brian R. Belland",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-02565-0.pdf"
+        },
+        {
+            "title": "Mergers and Alliances in Higher Education",
+            "doi": "10.1007/978-3-319-13135-1",
+            "authors": "Adrian CurajLuke GeorghiouJennifer Cassingena HarperEva Egron-Polak",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-13135-1.pdf"
+        },
+        {
+            "title": "A Philosophy of Israel Education",
+            "doi": "10.1007/978-3-319-30779-4",
+            "authors": "Barry Chazan",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-30779-4.pdf"
+        },
+        {
+            "title": "Becoming a World-Class University",
+            "doi": "10.1007/978-3-319-26380-9",
+            "authors": "Osama TayebAdnan ZahedJozef Ritzen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-26380-9.pdf"
+        },
+        {
+            "title": "Understanding China\u2019s School Leadership",
+            "doi": "10.1007/978-981-15-0749-6",
+            "authors": "Daming Feng",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-15-0749-6.pdf"
+        },
+        {
+            "title": "Berufliche Passagen im Lebenslauf",
+            "doi": "10.1007/978-3-658-10094-0",
+            "authors": "Kurt H\u00e4feliMarkus P. NeuenschwanderStephan Schumann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-10094-0.pdf"
+        },
+        {
+            "title": "The Dynamics of Opportunity in America",
+            "doi": "10.1007/978-3-319-25991-8",
+            "authors": "Irwin KirschHenry Braun",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-25991-8.pdf"
+        },
+        {
+            "title": "Talent Development in European Higher Education",
+            "doi": "10.1007/978-3-319-12919-8",
+            "authors": "Dr. Marca V.C. Wolfensberger",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-12919-8.pdf"
+        },
+        {
+            "title": "Systematic Reviews in Educational Research",
+            "doi": "10.1007/978-3-658-27602-7",
+            "authors": "Prof. Dr. Olaf Zawacki-RichterProf. Dr. Michael KerresSvenja BedenlierMelissa BondKatja Buntins",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-27602-7.pdf"
+        },
+        {
+            "title": "The European Higher Education Area",
+            "doi": "10.1007/978-3-319-20877-0",
+            "authors": "Adrian CurajLiviu MateiRemus PricopieJamil SalmiPeter Scott",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-20877-0.pdf"
+        },
+        {
+            "title": "Preparing for Life in a Digital Age",
+            "doi": "10.1007/978-3-319-14222-7",
+            "authors": "Julian FraillonJohn AinleyWolfram SchulzTim FriedmanEveline Gebhardt",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-14222-7.pdf"
+        },
+        {
+            "title": "Semiotics in Mathematics Education",
+            "doi": "10.1007/978-3-319-31370-2",
+            "authors": "Norma PresmegLuis RadfordWolff-Michael RothGert Kadunz",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-31370-2.pdf"
+        },
+        {
+            "title": "History Education and Conflict Transformation",
+            "doi": "10.1007/978-3-319-54681-0",
+            "authors": "Dr. Charis PsaltisMario CarreteroSabina \u010cehaji\u0107-Clancy",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-54681-0.pdf"
+        },
+        {
+            "title": "Future Skills",
+            "doi": "10.1007/978-3-658-29297-3",
+            "authors": "Ulf-Daniel Ehlers",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-29297-3.pdf"
+        },
+        {
+            "title": "Diversity and Inclusion in Global Higher Education",
+            "doi": "10.1007/978-981-15-1628-3",
+            "authors": "Catherine Shea SangerDr. Nancy W. Gleason",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-15-1628-3.pdf"
+        },
+        {
+            "title": "Konzeptionen von F\u00f6rderung, Selektion und Gerechtigkeit",
+            "doi": "10.1007/978-3-658-25782-8",
+            "authors": "Chantal Kamm",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-25782-8.pdf"
+        },
+        {
+            "title": "European Traditions in Didactics of Mathematics",
+            "doi": "10.1007/978-3-030-05514-1",
+            "authors": "Prof. Dr. Werner BlumProf. Dr. Mich\u00e8le ArtigueDr. Maria Alessandra MariottiProf. Rudolf Str\u00e4\u00dferProf. Dr. Marja Van den Heuvel-Panhuizen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-05514-1.pdf"
+        },
+        {
+            "title": "Gender Differences in Computer and Information Literacy",
+            "doi": "10.1007/978-3-030-26203-7",
+            "authors": "Prof. Eveline GebhardtDr. Sue ThomsonDr. John AinleyKylie Hillman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-26203-7.pdf"
+        },
+        {
+            "title": "Deutsch als Zweitsprache",
+            "doi": "10.1007/978-3-662-56270-3",
+            "authors": "",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-56270-3.pdf"
+        },
+        {
+            "title": "Research On and Activities For Mathematically Gifted Students",
+            "doi": "10.1007/978-3-319-39450-3",
+            "authors": "Florence Mihaela SingerLinda Jensen SheffieldProf. Viktor FreimanProf. Dr. Matthias Brandl",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-39450-3.pdf"
+        },
+        {
+            "title": "The Globalization of Science Curricula",
+            "doi": "10.1007/978-3-319-71532-2",
+            "authors": "Oliver StaceyGiulia De LazzariHilary GraysonHazel GriffinEmily JonesAmanda TaylorDavid Thomas",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-71532-2.pdf"
+        },
+        {
+            "title": "Vocational Teacher Education in Central Asia",
+            "doi": "10.1007/978-3-319-73093-6",
+            "authors": "Jens DrummerGafurjon HakimovMamatair JoldoshovThomas K\u00f6hlerSvetlana Udartseva",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-73093-6.pdf"
+        },
+        {
+            "title": "Teaching for Excellence and Equity",
+            "doi": "10.1007/978-3-030-16151-4",
+            "authors": "Prof. Nathan BurroughsJacqueline GardnerYoungjun LeeSiwen GuoDr. Israel TouitouKimberly JansenProf. William Schmidt",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-16151-4.pdf"
+        },
+        {
+            "title": "Intercultural Dialogue in the European Education Policies",
+            "doi": "10.1007/978-3-030-41517-4",
+            "authors": "Dr. Tuuli L\u00e4hdesm\u00e4kiDr. Aino-Kaisa KoistinenDr. Susanne C. Yl\u00f6nen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-41517-4.pdf"
+        },
+        {
+            "title": "Teaching and Learning Mathematical Modelling",
+            "doi": "10.1007/978-3-319-45004-9",
+            "authors": "Gilbert GreefrathKatrin Vorh\u00f6lter",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-45004-9.pdf"
+        },
+        {
+            "title": "Flexibel studieren \u2013 Vereinbarkeit erm\u00f6glichen",
+            "doi": "10.1007/978-3-658-26206-8",
+            "authors": "Imke Bu\u00df",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-26206-8.pdf"
+        },
+        {
+            "title": "Invited Lectures from the 13th International Congress on Mathematical Education",
+            "doi": "10.1007/978-3-319-72170-5",
+            "authors": "Prof. Dr. Gabriele KaiserProf. Helen ForgaszProf. Mellony GravenProf. Dr. Alain KuzniakProf. Dr. Elaine SimmtProf. Binyan Xu",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-72170-5.pdf"
+        },
+        {
+            "title": "Educating Students to Improve the World",
+            "doi": "10.1007/978-981-15-3887-2",
+            "authors": "Fernando M. Reimers",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-15-3887-2.pdf"
+        },
+        {
+            "title": "Design Science and Its Importance in the German Mathematics Educational Discussion",
+            "doi": "10.1007/978-3-319-43542-8",
+            "authors": "Marcus N\u00fchrenb\u00f6rgerBettina R\u00f6sken-WinterChun Ip FungRalph SchwarzkopfErich Christian WittmannKathrin AkinwunmiFelix LensingFlorian Schacht",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-43542-8.pdf"
+        },
+        {
+            "title": "Theories in and of Mathematics Education",
+            "doi": "10.1007/978-3-319-42589-4",
+            "authors": "Angelika Bikner-AhsbahsAndreas VohnsOliver SchmittRegina BruderWilli D\u00f6rfler",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-42589-4.pdf"
+        },
+        {
+            "title": "Open and Distance Education in Australia, Europe and the Americas",
+            "doi": "10.1007/978-981-13-0298-5",
+            "authors": "Dr. Adnan QayyumDr. Olaf Zawacki-Richter",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-0298-5.pdf"
+        },
+        {
+            "title": "The Responsible University",
+            "doi": "10.1007/978-3-030-25646-3",
+            "authors": "Dr. Mads P. S\u00f8rensenLars GeschwindJouni Kek\u00e4leProf. R\u00f3mulo Pinheiro",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-25646-3.pdf"
+        },
+        {
+            "title": "Compendium for Early Career Researchers in Mathematics Education",
+            "doi": "10.1007/978-3-030-15636-7",
+            "authors": "Prof. Dr. Gabriele KaiserDr. Norma Presmeg",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-15636-7.pdf"
+        },
+        {
+            "title": "History of Mathematics Teaching and Learning",
+            "doi": "10.1007/978-3-319-31616-1",
+            "authors": "Alexander KarpFulvia Furinghetti",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-31616-1.pdf"
+        },
+        {
+            "title": "Higher Education Reforms in Romania",
+            "doi": "10.1007/978-3-319-08054-3",
+            "authors": "Adrian CurajLigia DecaEva Egron-PolakJamil Salmi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-08054-3.pdf"
+        },
+        {
+            "title": "The Governing-Evaluation-Knowledge Nexus",
+            "doi": "10.1007/978-3-030-21143-1",
+            "authors": "Prof. Dr. Christina SegerholmDr. Agneta HultJoakim LindgrenAssoc. Prof. Linda R\u00f6nnberg",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-21143-1.pdf"
+        },
+        {
+            "title": "Interdisciplinary Mathematics Education",
+            "doi": "10.1007/978-3-030-11066-6",
+            "authors": "Dr. Brian DoigDr. Julian WilliamsDr. David SwansonProf. Dr. Rita Borromeo FerriDr. Pat Drake",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-11066-6.pdf"
+        },
+        {
+            "title": "Uses of Technology in Upper Secondary Mathematics Education",
+            "doi": "10.1007/978-3-319-42611-2",
+            "authors": "Stephen HegedusColette LabordeCorey BradySara DaltonHans-Stefan SillerMichal TabachJana TrgalovaLuis Moreno-Armella",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-42611-2.pdf"
+        },
+        {
+            "title": "Uses of Technology in Lower Secondary Mathematics Education",
+            "doi": "10.1007/978-3-319-33666-4",
+            "authors": "Paul DrijversLynda BallB\u00e4rbel BarzelM. Kathleen HeidYiming CaoMichela Maschietto",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-33666-4.pdf"
+        },
+        {
+            "title": "Socioeconomic Inequality and Educational Outcomes",
+            "doi": "10.1007/978-3-030-11991-1",
+            "authors": "Dr. Markus BroerYifan BaiFrank Fonseca",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-11991-1.pdf"
+        },
+        {
+            "title": "European Higher Education Area: The Impact of Past and Future Policies",
+            "doi": "10.1007/978-3-319-77407-7",
+            "authors": "Adrian CurajLigia DecaDr. Remus Pricopie",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-77407-7.pdf"
+        },
+        {
+            "title": "Teacher Quality, Instructional Quality and Student Outcomes",
+            "doi": "10.1007/978-3-319-41252-8",
+            "authors": "Trude NilsenJan-Eric Gustafsson",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-41252-8.pdf"
+        },
+        {
+            "title": "The Mathematics Education of Prospective Secondary Teachers Around the World",
+            "doi": "10.1007/978-3-319-38965-3",
+            "authors": "Marilyn E. StrutchensRongjin HuangLeticia LosanoDespina PotariM\u00e1rcia Cristina de Costa Trindade CyrinoJo\u00e3o Pedro da PonteRose Mary Zbiek",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-38965-3.pdf"
+        },
+        {
+            "title": "Collaborative Curriculum Design for Sustainable Innovation and Teacher Learning",
+            "doi": "10.1007/978-3-030-20062-6",
+            "authors": "Jules PietersJoke VoogtNatalie Pareja Roblin",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-20062-6.pdf"
+        },
+        {
+            "title": "The Legacy of Felix Klein",
+            "doi": "10.1007/978-3-319-99386-7",
+            "authors": "Prof. Dr. Hans-Georg WeigandProf. Dr. William McCallumProf. Dr. Marta MenghiniDr. Michael NeubrandGert Schubring",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-99386-7.pdf"
+        },
+        {
+            "title": "IEA International Computer and Information Literacy Study 2018 Assessment Framework",
+            "doi": "10.1007/978-3-030-19389-8",
+            "authors": "Julian FraillonDr. John AinleyWolfram SchulzDaniel DuckworthTim Friedman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-19389-8.pdf"
+        },
+        {
+            "title": "Teaching and Learning of Calculus",
+            "doi": "10.1007/978-3-319-32975-8",
+            "authors": "David BressoudIm\u00e8ne GhedamsiVictor Martinez-LuacesG\u00fcnter T\u00f6rner",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-32975-8.pdf"
+        },
+        {
+            "title": "Transitions in Mathematics Education",
+            "doi": "10.1007/978-3-319-31622-2",
+            "authors": "Ghislaine GueudetMarianna BoschAndrea A. diSessaOh Nam KwonLieven Verschaffel",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-31622-2.pdf"
+        },
+        {
+            "title": "Motivational Profiles in TIMSS Mathematics",
+            "doi": "10.1007/978-3-030-26183-2",
+            "authors": "Dr. Michalis P. MichaelidesProf. Gavin T. L. BrownDr. Hanna Ekl\u00f6fProf. Elena C. Papanastasiou",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-26183-2.pdf"
+        },
+        {
+            "title": "Young People's Views of Government, Peaceful Coexistence, and Diversity in Five Latin American Countries",
+            "doi": "10.1007/978-3-319-95393-9",
+            "authors": "Wolfram SchulzJohn AinleyProf. Dr. Cristi\u00e1n CoxTim Friedman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-95393-9.pdf"
+        },
+        {
+            "title": "Conceptualizing Environmental Citizenship for 21st Century Education",
+            "doi": "10.1007/978-3-030-20249-1",
+            "authors": "Andreas Ch. HadjichambisPedro ReisDemetra Paraskeva-HadjichambiJan \u010cin\u010deraJelle Boeve-de PauwNiklas GerickeMarie-Christine Knippels",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-20249-1.pdf"
+        },
+        {
+            "title": "Education and Development in Colonial and Postcolonial Africa",
+            "doi": "10.1007/978-3-030-27801-4",
+            "authors": "Damiano MatasciMiguel Bandeira Jer\u00f3nimoHugo Gon\u00e7alves Dores",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-27801-4.pdf"
+        },
+        {
+            "title": "IEA International Civic and Citizenship Education Study 2016 Assessment Framework",
+            "doi": "10.1007/978-3-319-39357-5",
+            "authors": "Wolfram SchulzJohn AinleyJulian FraillonBruno LositoGabriella Agrusti",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-39357-5.pdf"
+        },
+        {
+            "title": "Traditions in German-Speaking Mathematics Education Research",
+            "doi": "10.1007/978-3-030-11069-7",
+            "authors": "Prof. Dr. Hans Niels JahnkeProf. Dr. Lisa Hefendehl-Hebeker",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-11069-7.pdf"
+        },
+        {
+            "title": "Theoretical and Practical Advances in Computer-based Educational Measurement",
+            "doi": "10.1007/978-3-030-18480-3",
+            "authors": "Dr. Bernard P. VeldkampDr. Cor Sluijter",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-18480-3.pdf"
+        },
+        {
+            "title": "Problem Solving in Mathematics Education",
+            "doi": "10.1007/978-3-319-40730-2",
+            "authors": "Peter LiljedahlManuel Santos-TrigoUldarico MalaspinaRegina Bruder",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-40730-2.pdf"
+        },
+        {
+            "title": "Teaching Tolerance in a Globalized World",
+            "doi": "10.1007/978-3-319-78692-6",
+            "authors": "Andr\u00e9s Sandoval-Hern\u00e1ndezMaria Magdalena IsacDaniel Miranda",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-78692-6.pdf"
+        },
+        {
+            "title": "Young People's Perceptions of Europe in a Time of Change",
+            "doi": "10.1007/978-3-319-73960-1",
+            "authors": "Dr. Bruno LositoDr. Gabriella AgrustiValeria DamianiWolfram Schulz",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-73960-1.pdf"
+        },
+        {
+            "title": "The Change Laboratory for Teacher Training in Entrepreneurship Education",
+            "doi": "10.1007/978-3-030-02571-7",
+            "authors": "Dr. Daniele Morselli",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-02571-7.pdf"
+        },
+        {
+            "title": "The Philosophy of Mathematics Education",
+            "doi": "10.1007/978-3-319-40569-8",
+            "authors": "Paul ErnestOle SkovsmoseJean Paul van BendegemMaria BicudoRoger MiarkaLadislav KvaszRegina Moeller",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-40569-8.pdf"
+        },
+        {
+            "title": "Open and Distance Education in Asia, Africa and the Middle East",
+            "doi": "10.1007/978-981-13-5787-9",
+            "authors": "Dr. Olaf Zawacki-RichterDr. Adnan Qayyum",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-5787-9.pdf"
+        },
+        {
+            "title": "Interdisciplinary Mathematics Education",
+            "doi": "10.1007/978-3-319-42267-1",
+            "authors": "Julian WilliamsWolff-Michael RothDavid SwansonBrian DoigSusie GrovesMichael OmuvwieRita Borromeo FerriNicholas Mousoulides",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-42267-1.pdf"
+        },
+        {
+            "title": "International Reflections on the Netherlands Didactics of Mathematics",
+            "doi": "10.1007/978-3-030-20223-1",
+            "authors": "Prof. Dr. Marja van den Heuvel-Panhuizen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-20223-1.pdf"
+        },
+        {
+            "title": "Empirical Research in Statistics Education",
+            "doi": "10.1007/978-3-319-38968-4",
+            "authors": "Andreas EichlerLuc\u00eda Zapata-Cardona",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-38968-4.pdf"
+        },
+        {
+            "title": "Values and Valuing in Mathematics Education",
+            "doi": "10.1007/978-3-030-16892-6",
+            "authors": "Philip ClarksonAssoc. Prof. Wee Tiong SeahDr. JeongSuk Pang",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-16892-6.pdf"
+        },
+        {
+            "title": "Research on Teaching and Learning Probability",
+            "doi": "10.1007/978-3-319-31625-3",
+            "authors": "Carmen BataneroEgan J. ChernoffJoachim EngelHollylynne S. LeeErnesto S\u00e1nchez",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-31625-3.pdf"
+        },
+        {
+            "title": "Global Perspectives on Recognising Non-formal and Informal Learning",
+            "doi": "10.1007/978-3-319-15278-3",
+            "authors": "Madhu Singh",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-15278-3.pdf"
+        },
+        {
+            "title": "Early Geometrical Thinking in the Environment of Patterns, Mosaics and Isometries",
+            "doi": "10.1007/978-3-319-44272-3",
+            "authors": "Ewa SwobodaPaola Vighi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-44272-3.pdf"
+        },
+        {
+            "title": "The Cold War in the Classroom",
+            "doi": "10.1007/978-3-030-11999-7",
+            "authors": "Dr. Barbara ChristopheProf. Dr. Peter GautschiDr. Robert Thorp",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-11999-7.pdf"
+        },
+        {
+            "title": "Social and Political Dimensions of Mathematics Education",
+            "doi": "10.1007/978-3-319-29655-5",
+            "authors": "Murad JurdakRenuka VithalElizabeth de FreitasPeter GatesDavid Kollosche",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-29655-5.pdf"
+        },
+        {
+            "title": "Affect and Mathematics Education",
+            "doi": "10.1007/978-3-030-13761-8",
+            "authors": "Markku S. HannulaGilah C. LederFrancesca MorselliMaike VollstedtQiaoping Zhang",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-13761-8.pdf"
+        },
+        {
+            "title": "Play-Responsive Teaching in Early Childhood Education",
+            "doi": "10.1007/978-3-030-15958-0",
+            "authors": "Niklas PramlingCecilia WallerstedtPernilla Lagerl\u00f6fCamilla Bj\u00f6rklundAnne KulttiDr. Hanna Palm\u00e9rMaria MagnussonSusanne ThulinAgneta JonssonProf. Ingrid Pramling Samuelsson",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-15958-0.pdf"
+        },
+        {
+            "title": "Building the Foundation: Whole Numbers in the Primary Grades",
+            "doi": "10.1007/978-3-319-63555-2",
+            "authors": "Maria G. Bartolini BussiXu Hua Sun",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-63555-2.pdf"
+        },
+        {
+            "title": "Children's Exploration and Cultural Formation",
+            "doi": "10.1007/978-3-030-36271-3",
+            "authors": "Mariane HedegaardElin Eriksen \u00d8degaard",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-36271-3.pdf"
+        },
+        {
+            "title": "Principles and Practice of Case-based Clinical Reasoning Education",
+            "doi": "10.1007/978-3-319-64828-6",
+            "authors": "Ph.D. Olle ten CatePh.D. Eug\u00e8ne J.F.M. CustersPh.D. Steven J. Durning",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-64828-6.pdf"
+        },
+        {
+            "title": "International Comparative Studies in Mathematics",
+            "doi": "10.1007/978-3-319-42414-9",
+            "authors": "Jinfa CaiIda A.C. MokVijay ReddyKaye Stacey",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-42414-9.pdf"
+        },
+        {
+            "title": "Becoming Citizens in a Changing World",
+            "doi": "10.1007/978-3-319-73963-2",
+            "authors": "Wolfram SchulzJohn AinleyJulian FraillonDr. Bruno LositoDr. Gabriella AgrustiTim Friedman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-73963-2.pdf"
+        },
+        {
+            "title": "Psychometric Framework for Modeling Parental Involvement and Reading Literacy",
+            "doi": "10.1007/978-3-319-28064-6",
+            "authors": "Annemiek PunterCees A. W. GlasMartina R. M. Meelissen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-28064-6.pdf"
+        },
+        {
+            "title": "Curriculum Reform in the European Schools",
+            "doi": "10.1007/978-3-319-71464-6",
+            "authors": "Sandra Leaton GrayProf. David ScottPeeter Mehisto",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-71464-6.pdf"
+        },
+        {
+            "title": "Inquiry-Based Learning \u2013 Undergraduate Research",
+            "doi": "10.1007/978-3-030-14223-0",
+            "authors": "Harald A. Mieg",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-14223-0.pdf"
+        },
+        {
+            "title": "Advancing Human Assessment",
+            "doi": "10.1007/978-3-319-58689-2",
+            "authors": "Randy E. BennettDr. Matthias von Davier",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-58689-2.pdf"
+        },
+        {
+            "title": "25 Years of Transformations of Higher Education Systems in Post-Soviet Countries",
+            "doi": "10.1007/978-3-319-52980-6",
+            "authors": "Prof. Jeroen HuismanAnna SmolentsevaIsak Froumin",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-52980-6.pdf"
+        },
+        {
+            "title": "Collaboration in Designing a Pedagogical Approach in Information Literacy",
+            "doi": "10.1007/978-3-030-34258-6",
+            "authors": "Ane Land\u00f8yDaniela PopaAngela Repanovici",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-34258-6.pdf"
+        },
+        {
+            "title": "Engineering a Better Future",
+            "doi": "10.1007/978-3-319-91134-2",
+            "authors": "Dr. Eswaran SubrahmanianToluwalogo OdumosuJeffrey Y. Tsao",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-91134-2.pdf"
+        },
+        {
+            "title": "Assessment in Mathematics Education",
+            "doi": "10.1007/978-3-319-32394-7",
+            "authors": "Christine SuurtammDenisse R. ThompsonRae Young KimLeonora Diaz MorenoNathalie SayacStanislaw SchukajlowEdward SilverStefan UferPauline Vos",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-32394-7.pdf"
+        },
+        {
+            "title": "Modern Mathematics Education for Engineering Curricula in Europe",
+            "doi": "10.1007/978-3-319-71416-5",
+            "authors": "Prof. Dr. Seppo PohjolainenTuomas MyllykoskiChristian MercatSergey Sosnovsky",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-71416-5.pdf"
+        },
+        {
+            "title": "Research on Teaching and Learning Mathematics at the Tertiary Level",
+            "doi": "10.1007/978-3-319-41814-8",
+            "authors": "Irene BizaVictor GiraldoReinhard HochmuthAzimeh Sadat KhakbazChris Rasmussen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-41814-8.pdf"
+        },
+        {
+            "title": "Proceedings of the 13th International Congress on Mathematical Education",
+            "doi": "10.1007/978-3-319-62597-3",
+            "authors": "Prof. Dr. Gabriele Kaiser",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-62597-3.pdf"
+        },
+        {
+            "title": "Current and Future Perspectives of Ethnomathematics as a Program",
+            "doi": "10.1007/978-3-319-30120-4",
+            "authors": "Milton RosaUbiratan D\u2019AmbrosioDaniel Clark OreyLawrence ShirleyWilfredo V. AlanguiPedro PalharesMaria Elena Gavarrete",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-30120-4.pdf"
+        },
+        {
+            "title": "Early Childhood Policies and Systems in Eight Countries",
+            "doi": "10.1007/978-3-319-39847-1",
+            "authors": "Tony BertramChris Pascal",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-39847-1.pdf"
+        },
+        {
+            "title": "Lines of Inquiry in Mathematical Modelling Research in Education",
+            "doi": "10.1007/978-3-030-14931-4",
+            "authors": "Gloria Ann StillmanDr. Jill P. Brown",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-14931-4.pdf"
+        },
+        {
+            "title": "Successful Global Collaborations in Higher Education Institutions",
+            "doi": "10.1007/978-3-030-25525-1",
+            "authors": "Prof. Abdulrahman AI-YoubiAdnan H. M. ZahedProf. William G. Tierney",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-25525-1.pdf"
+        },
+        {
+            "title": "Visions for Intercultural Music Teacher Education",
+            "doi": "10.1007/978-3-030-21029-8",
+            "authors": "Prof. Heidi WesterlundProf. Sidsel KarlsenDr. Heidi Partti",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-21029-8.pdf"
+        },
+        {
+            "title": "Student Misconceptions and Errors in Physics and Mathematics",
+            "doi": "10.1007/978-3-030-30188-0",
+            "authors": "Dr. Teresa NeidorfDr. Alka AroraDr. Ebru ErberberYemurai TsokodayiThanh Mai",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-30188-0.pdf"
+        },
+        {
+            "title": "Indigenous Pathways, Transitions and Participation in Higher Education",
+            "doi": "10.1007/978-981-10-4062-7",
+            "authors": "Jack FrawleySteve LarkinJames A. Smith",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-10-4062-7.pdf"
+        },
+        {
+            "title": "Early Algebra",
+            "doi": "10.1007/978-3-319-32258-2",
+            "authors": "Carolyn KieranJeongSuk PangDeborah SchifterSwee Fong Ng",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-32258-2.pdf"
+        },
+        {
+            "title": "Teaching and Learning About Whole Numbers in Primary School",
+            "doi": "10.1007/978-3-319-45113-8",
+            "authors": "Terezinha NunesBeatriz Vargas DornelesPi-Jen LinElisabeth Rathgeb-Schnierer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-45113-8.pdf"
+        },
+        {
+            "title": "National Reflections on the Netherlands Didactics of Mathematics",
+            "doi": "10.1007/978-3-030-33824-4",
+            "authors": "Prof. Dr. Marja Van den Heuvel-Panhuizen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-33824-4.pdf"
+        },
+        {
+            "title": "Preparing for Life in a Digital World",
+            "doi": "10.1007/978-3-030-38781-5",
+            "authors": "Julian FraillonDr. John AinleyWolfram SchulzTim FriedmanDaniel Duckworth",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-38781-5.pdf"
+        },
+        {
+            "title": "Empowering Teachers to Build a Better World",
+            "doi": "10.1007/978-981-15-2137-9",
+            "authors": "Fernando M. Reimers",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-15-2137-9.pdf"
+        },
+        {
+            "title": "Attitudes, Beliefs, Motivation and Identity in Mathematics Education",
+            "doi": "10.1007/978-3-319-32811-9",
+            "authors": "Markku S. HannulaPietro Di MartinoMarilena PantziaraQiaoping ZhangFrancesca MorselliEinat Heyd-MetzuyanimSonja LutovacRaimo KaasilaJames A. MiddletonAmanda JansenGerald A Goldin",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-32811-9.pdf"
+        },
+        {
+            "title": "Bridging Educational Leadership, Curriculum Theory and Didaktik",
+            "doi": "10.1007/978-3-319-58650-2",
+            "authors": "Michael UljensRose M. Ylimaki",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-58650-2.pdf"
+        },
+        {
+            "title": "The Troika of Adult Learners, Lifelong Learning, and Mathematics",
+            "doi": "10.1007/978-3-319-32808-9",
+            "authors": "Katherine Safford-RamusPradeep Kumar MisraTerry Maguire",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-32808-9.pdf"
+        },
+        {
+            "title": "Skills Development for Inclusive and Sustainable Growth in Developing Asia-Pacific",
+            "doi": "10.1007/978-94-007-5937-4",
+            "authors": "Rupert MacleanShanti JagannathanJouko Sarvi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-94-007-5937-4.pdf"
+        },
+        {
+            "title": "School Leadership and Educational Change in Singapore",
+            "doi": "10.1007/978-3-319-74746-0",
+            "authors": "Benjamin WongSalleh HaironPak Tee Ng",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-74746-0.pdf"
+        },
+        {
+            "title": "Educational Technology",
+            "doi": "10.1007/978-981-13-6643-7",
+            "authors": "Ronghuai HuangJ. Michael SpectorJunfeng Yang",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-6643-7.pdf"
+        },
+        {
+            "title": "Research Methods for Social Justice and Equity in Education",
+            "doi": "10.1007/978-3-030-05900-2",
+            "authors": "Dr. Kamden K. StrunkProf. Leslie Ann Locke",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-05900-2.pdf"
+        },
+        {
+            "title": "Conferencing and Presentation English for Young Academics",
+            "doi": "10.1007/978-981-13-2475-8",
+            "authors": "Michael Guest",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-2475-8.pdf"
+        },
+        {
+            "title": "Grammar for Teachers",
+            "doi": "10.1007/978-3-319-33916-0",
+            "authors": "Andrea DeCapua",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-33916-0.pdf"
+        },
+        {
+            "title": "The Action Research Planner",
+            "doi": "10.1007/978-981-4560-67-2",
+            "authors": "Stephen KemmisRobin McTaggartRhonda Nixon",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-4560-67-2.pdf"
+        },
+        {
+            "title": "A Course in Rasch Measurement Theory",
+            "doi": "10.1007/978-981-13-7496-8",
+            "authors": "Prof. David AndrichIda Marais",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-7496-8.pdf"
+        },
+        {
+            "title": "The A-Z of the PhD Trajectory",
+            "doi": "10.1007/978-3-319-77425-1",
+            "authors": "Eva O. L. Lantsoght",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-77425-1.pdf"
+        },
+        {
+            "title": "Writing for Publication",
+            "doi": "10.1007/978-3-319-31650-5",
+            "authors": "Mary Renck JalongoOlivia N. Saracho",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-31650-5.pdf"
+        },
+        {
+            "title": "Language Across the Curriculum & CLIL in English as an Additional Language (EAL) Contexts",
+            "doi": "10.1007/978-981-10-1802-2",
+            "authors": "Angel M.Y. Lin",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-10-1802-2.pdf"
+        }
+    ],
+    "Engineering": [
+        {
+            "title": "Solving the Powertrain Puzzle",
+            "doi": "10.1007/978-3-658-06430-3",
+            "authors": "Schaeffler Technologies GmbH & Co. KG",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-06430-3.pdf"
+        },
+        {
+            "title": "Think Big, Start Small",
+            "doi": "10.1007/978-3-662-54997-1",
+            "authors": "Prof. Achim KampkerJ\u00fcrgen GerdesProf. G\u00fcnther Schuh",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-54997-1.pdf"
+        },
+        {
+            "title": "IUTAM",
+            "doi": "10.1007/978-3-319-31063-3",
+            "authors": "Peter EberhardStephen Juhasz",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-31063-3.pdf"
+        },
+        {
+            "title": "Opening Science",
+            "doi": "10.1007/978-3-319-00026-8",
+            "authors": "S\u00f6nke BartlingSascha Friesike",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-00026-8.pdf"
+        },
+        {
+            "title": "Autonomes Fahren",
+            "doi": "10.1007/978-3-662-45854-9",
+            "authors": "Markus MaurerJ. Christian GerdesBarbara LenzHermann Winner",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-45854-9.pdf"
+        },
+        {
+            "title": "Handbook of Contact Mechanics",
+            "doi": "10.1007/978-3-662-58709-6",
+            "authors": "Prof. Dr. Valentin L. PopovMarkus He\u00dfEmanuel Willert",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-58709-6.pdf"
+        },
+        {
+            "title": "Bayesian Methods in the Search for MH370",
+            "doi": "10.1007/978-981-10-0379-0",
+            "authors": "Sam DaveyNeil GordonIan HollandMark RuttenJason Williams",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-10-0379-0.pdf"
+        },
+        {
+            "title": "K\u00fcnstliche Intelligenz",
+            "doi": "10.1007/978-3-662-58042-4",
+            "authors": "Volker Wittpahl",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-58042-4.pdf"
+        },
+        {
+            "title": "Autonome Shuttlebusse im \u00d6PNV",
+            "doi": "10.1007/978-3-662-59406-3",
+            "authors": "Prof. Andreas RienerDr. Alexandra AppelProf. Dr. Wolfgang DornerDr. Thomas HuberJan Christopher KolbProf. Dr. Harry Wagner",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-59406-3.pdf"
+        },
+        {
+            "title": "Machine Learning for Cyber Physical Systems",
+            "doi": "10.1007/978-3-662-58485-9",
+            "authors": "Prof. Dr. J\u00fcrgen BeyererDr. Christian K\u00fchnertProf. Dr. Oliver Niggemann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-58485-9.pdf"
+        },
+        {
+            "title": "Sonic Skills",
+            "doi": "10.1057/978-1-137-59829-5",
+            "authors": "Prof. Dr. Karin Bijsterveld",
+            "url": "https://link.springer.com/content/pdf/10.1057/978-1-137-59829-5.pdf"
+        },
+        {
+            "title": "Foundations of Trusted Autonomy",
+            "doi": "10.1007/978-3-319-64816-3",
+            "authors": "Hussein A. AbbassDr. Jason ScholzDr. Darryn J. Reid",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-64816-3.pdf"
+        },
+        {
+            "title": "Kommunikation und Bildverarbeitung in der Automation",
+            "doi": "10.1007/978-3-662-59895-5",
+            "authors": "Prof. Dr. J\u00fcrgen JasperneiteProf. Dr. Volker Lohweg",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-59895-5.pdf"
+        },
+        {
+            "title": "Models, Methods and Tools for Product Service Design",
+            "doi": "10.1007/978-3-319-95849-1",
+            "authors": "Dr. Laura CattaneoProf. Sergio Terzi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-95849-1.pdf"
+        },
+        {
+            "title": "AVENUE21. Automatisierter und vernetzter Verkehr: Entwicklungen des urbanen Europa",
+            "doi": "10.1007/978-3-662-61283-5",
+            "authors": "Dr. Mathias MittereggerEmilia M. BruckAggelos SoteropoulosAndrea SticklerProf. Dr. Martin BergerProf. Dr. Jens S. DangschatProf. Rudolf ScheuvensIan Banerjee",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-61283-5.pdf"
+        },
+        {
+            "title": "IMPROVE - Innovative Modelling Approaches for Production Systems to Raise Validatable Efficiency",
+            "doi": "10.1007/978-3-662-57805-6",
+            "authors": "Prof. Dr. Oliver NiggemannDr. Peter Sch\u00fcller",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-57805-6.pdf"
+        },
+        {
+            "title": "Cold Micro Metal Forming",
+            "doi": "10.1007/978-3-030-11280-6",
+            "authors": "Prof. Dr. Frank VollertsenDr. Sybille FriedrichProf. Dr. Bernd Kuhfu\u00dfProf. Dr. Peter Maa\u00dfDr. Claus ThomyProf. Dr. Hans-Werner Zoch",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-11280-6.pdf"
+        },
+        {
+            "title": "Exploring Resilience",
+            "doi": "10.1007/978-3-030-03189-3",
+            "authors": "Siri WiigBabette Fahlbruch",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-03189-3.pdf"
+        },
+        {
+            "title": "Introduction to Permanent Plug and Abandonment of Wells",
+            "doi": "10.1007/978-3-030-39970-2",
+            "authors": "Assoc. Prof. Mahmoud KhalifehDr. Arild Saasen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-39970-2.pdf"
+        },
+        {
+            "title": "Theory and Applications of Ordered Fuzzy Numbers",
+            "doi": "10.1007/978-3-319-59614-3",
+            "authors": "Piotr ProkopowiczJacek CzerniakDariusz Miko\u0142ajewski\u0141ukasz ApiecionekProf. Dr. Dominik \u015al\u0229zak",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-59614-3.pdf"
+        },
+        {
+            "title": "Demystifying Climate Models",
+            "doi": "10.1007/978-3-662-48959-8",
+            "authors": "Andrew GettelmanRichard B. Rood",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-48959-8.pdf"
+        },
+        {
+            "title": "Regeneration of the Built Environment from a Circular Economy Perspective",
+            "doi": "10.1007/978-3-030-33256-3",
+            "authors": "Prof. Stefano Della TorreSara CattaneoProf. Camilla LenziProf. Alessandra Zanelli",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-33256-3.pdf"
+        },
+        {
+            "title": "Autonomous Driving",
+            "doi": "10.1007/978-3-662-48847-8",
+            "authors": "Markus MaurerJ. Christian GerdesBarbara LenzHermann Winner",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-48847-8.pdf"
+        },
+        {
+            "title": "Variant Construction from Theoretical Foundation to Applications",
+            "doi": "10.1007/978-981-13-2282-2",
+            "authors": "Prof. Dr. Jeffrey Zheng",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-2282-2.pdf"
+        },
+        {
+            "title": "Zukunft der Arbeit \u2013 Eine praxisnahe Betrachtung",
+            "doi": "10.1007/978-3-662-49266-6",
+            "authors": "Dr. Steffen WischmannDr. Ernst Andreas Hartmann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-49266-6.pdf"
+        },
+        {
+            "title": "Advances in Production Technology",
+            "doi": "10.1007/978-3-319-12304-2",
+            "authors": "Christian Brecher",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-12304-2.pdf"
+        },
+        {
+            "title": "Digitalisierung",
+            "doi": "10.1007/978-3-662-52854-9",
+            "authors": "Volker Wittpahl",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-52854-9.pdf"
+        },
+        {
+            "title": "Water Resource Systems Planning and Management",
+            "doi": "10.1007/978-3-319-44234-1",
+            "authors": "Daniel P. LoucksEelco van Beek",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-44234-1.pdf"
+        },
+        {
+            "title": "Brain and Human Body Modeling",
+            "doi": "10.1007/978-3-030-21293-3",
+            "authors": "Sergey MakarovMarc HornerGregory Noetscher",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-21293-3.pdf"
+        },
+        {
+            "title": "Managing the Complexity of Critical Infrastructures",
+            "doi": "10.1007/978-3-319-51043-9",
+            "authors": "Roberto SetolaVittorio RosatoElias KyriakidesErich Rome",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-51043-9.pdf"
+        },
+        {
+            "title": "Sto\u00dfprobleme in Physik, Technik und Medizin",
+            "doi": "10.1007/978-3-662-60296-6",
+            "authors": "Emanuel Willert",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-60296-6.pdf"
+        },
+        {
+            "title": "Cognitive Supervision for Robot-Assisted Minimally Invasive Laser Surgery",
+            "doi": "10.1007/978-3-319-30330-7",
+            "authors": "Loris Fichera",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-30330-7.pdf"
+        },
+        {
+            "title": "Control Theory Tutorial",
+            "doi": "10.1007/978-3-319-91707-8",
+            "authors": "Prof. Steven A. Frank",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-91707-8.pdf"
+        },
+        {
+            "title": "Risk Communication for the Future",
+            "doi": "10.1007/978-3-319-74098-0",
+            "authors": "Mathilde BourrierCorinne Bieder",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-74098-0.pdf"
+        },
+        {
+            "title": "Handbook of Ocean Wave Energy",
+            "doi": "10.1007/978-3-319-39889-1",
+            "authors": "Arthur PecherJens Peter Kofoed",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-39889-1.pdf"
+        },
+        {
+            "title": "Digitale Souver\u00e4nit\u00e4t",
+            "doi": "10.1007/978-3-662-55796-9",
+            "authors": "Volker Wittpahl",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-55796-9.pdf"
+        },
+        {
+            "title": "The Hackable City",
+            "doi": "10.1007/978-981-13-2694-3",
+            "authors": "Dr. Michiel de LangeDr. Martijn de Waal",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-2694-3.pdf"
+        },
+        {
+            "title": "Digital Transformation of the Design, Construction and Management Processes of the Built Environment",
+            "doi": "10.1007/978-3-030-33570-0",
+            "authors": "Prof. Bruno DaniottiMarco GianinettoProf. Stefano Della Torre",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-33570-0.pdf"
+        },
+        {
+            "title": "Safety Cultures, Safety Models",
+            "doi": "10.1007/978-3-319-95129-4",
+            "authors": "Dr. Claude GilbertBeno\u00eet Journ\u00e9Herv\u00e9 LarocheCorinne Bieder",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-95129-4.pdf"
+        },
+        {
+            "title": "Beyond Safety Training",
+            "doi": "10.1007/978-3-319-65527-7",
+            "authors": "Corinne BiederClaude GilbertBeno\u00eet Journ\u00e9Herv\u00e9 Laroche",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-65527-7.pdf"
+        },
+        {
+            "title": "Perspectives on European Earthquake Engineering and Seismology",
+            "doi": "10.1007/978-3-319-07118-3",
+            "authors": "Atilla Ansal",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-07118-3.pdf"
+        },
+        {
+            "title": "Model-Driven Development and Operation of Multi-Cloud Applications",
+            "doi": "10.1007/978-3-319-46031-4",
+            "authors": "Elisabetta Di NittoPeter MatthewsDana PetcuArnor Solberg",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-46031-4.pdf"
+        },
+        {
+            "title": "Buildings for Education",
+            "doi": "10.1007/978-3-030-33687-5",
+            "authors": "Prof. Stefano Della TorreProf. Massimiliano BocciarelliLaura DaglioRaffaella Neri",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-33687-5.pdf"
+        },
+        {
+            "title": "Dynamic Spectrum Management",
+            "doi": "10.1007/978-981-15-0776-2",
+            "authors": "Ying-Chang Liang",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-15-0776-2.pdf"
+        },
+        {
+            "title": "Human and Organisational Factors",
+            "doi": "10.1007/978-3-030-25639-5",
+            "authors": "Prof. Beno\u00eet Journ\u00e9Prof. Herv\u00e9 LarocheDr. Corinne BiederDr. Claude Gilbert",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-25639-5.pdf"
+        },
+        {
+            "title": "Error-Correction Coding and Decoding",
+            "doi": "10.1007/978-3-319-51103-0",
+            "authors": "Martin TomlinsonCen Jung TjhaiMarcel A. AmbrozeMohammed AhmedMubarak Jibril",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-51103-0.pdf"
+        },
+        {
+            "title": "Sustainable Manufacturing",
+            "doi": "10.1007/978-3-319-48514-0",
+            "authors": "Rainer StarkG\u00fcnther SeligerJ\u00e9r\u00e9my Bonvoisin",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-48514-0.pdf"
+        },
+        {
+            "title": "Zukunft der Arbeit in Industrie 4.0",
+            "doi": "10.1007/978-3-662-45915-7",
+            "authors": "Alfons BotthofErnst Andreas Hartmann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-45915-7.pdf"
+        },
+        {
+            "title": "Factories of the Future",
+            "doi": "10.1007/978-3-319-94358-9",
+            "authors": "Prof. Tullio TolioDr. Giacomo CopaniProf. Walter Terkaj",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-94358-9.pdf"
+        },
+        {
+            "title": "Twin-Control",
+            "doi": "10.1007/978-3-030-02203-7",
+            "authors": "Ph.D. Mikel ArmendiaDr. Mani GhassempouriPh.D. Erdem OzturkFlavien Peysson",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-02203-7.pdf"
+        },
+        {
+            "title": "The Illusion of Risk Control",
+            "doi": "10.1007/978-3-319-32939-0",
+            "authors": "Gilles MotetCorinne Bieder",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-32939-0.pdf"
+        },
+        {
+            "title": "Model Tests and Numerical Simulations of Liquefaction and Lateral Spreading",
+            "doi": "10.1007/978-3-030-22818-7",
+            "authors": "Bruce L. KutterDr. Majid T. ManzariMourad Zeghal",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-22818-7.pdf"
+        },
+        {
+            "title": "Special Topics in Information Technology",
+            "doi": "10.1007/978-3-030-32094-2",
+            "authors": "Prof. Barbara Pernici",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-32094-2.pdf"
+        },
+        {
+            "title": "Ambisonics",
+            "doi": "10.1007/978-3-030-17207-7",
+            "authors": "Dr. Franz ZotterDr. Matthias Frank",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-17207-7.pdf"
+        },
+        {
+            "title": "Flexitranstore",
+            "doi": "10.1007/978-3-030-37818-9",
+            "authors": "Dr. B\u00e1lint N\u00e9methProf. Lambros Ekonomou",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-37818-9.pdf"
+        },
+        {
+            "title": "Fundamentals of Structural Engineering",
+            "doi": "10.1007/978-3-319-24331-3",
+            "authors": "Jerome J. ConnorSusan Faraji",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-24331-3.pdf"
+        },
+        {
+            "title": "Roloff/Matek Maschinenelemente",
+            "doi": "10.1007/978-3-658-02327-0",
+            "authors": "Herbert WittelDieter MuhsDieter JannaschJoachim Vo\u00dfiek",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-02327-0.pdf"
+        },
+        {
+            "title": "Internet of Things From Hype to Reality",
+            "doi": "10.1007/978-3-319-99516-8",
+            "authors": "Dr. Ammar RayesSamer Salam",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-99516-8.pdf"
+        },
+        {
+            "title": "Principles of Mobile Communication",
+            "doi": "10.1007/978-3-319-55615-4",
+            "authors": "Gordon L. St\u00fcber",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-55615-4.pdf"
+        },
+        {
+            "title": "Physics of Semiconductor Devices",
+            "doi": "10.1007/978-1-4939-1151-6",
+            "authors": "Massimo Rudan",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4939-1151-6.pdf"
+        },
+        {
+            "title": "Fundamentals of Robotic Mechanical Systems",
+            "doi": "10.1007/978-3-319-01851-5",
+            "authors": "Jorge Angeles",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-01851-5.pdf"
+        },
+        {
+            "title": "The Finite Element Method and Applications in Engineering Using ANSYS\u00ae",
+            "doi": "10.1007/978-1-4899-7550-8",
+            "authors": "Erdogan MadenciIbrahim Guven",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4899-7550-8.pdf"
+        },
+        {
+            "title": "Fatigue of Structures and Materials",
+            "doi": "10.1007/978-1-4020-6808-9",
+            "authors": "Jaap Schijve",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4020-6808-9.pdf"
+        },
+        {
+            "title": "Introduction to Logic Circuits & Logic Design with VHDL",
+            "doi": "10.1007/978-3-030-12489-2",
+            "authors": "Brock J. LaMeres",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-12489-2.pdf"
+        },
+        {
+            "title": "Introduction to Logic Circuits & Logic Design with Verilog",
+            "doi": "10.1007/978-3-319-53883-9",
+            "authors": "Brock J. LaMeres",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-53883-9.pdf"
+        },
+        {
+            "title": "Integrierte Materialwirtschaft, Logistik und Beschaffung",
+            "doi": "10.1007/978-3-642-45023-5",
+            "authors": "Helmut Wannenwetsch",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-45023-5.pdf"
+        },
+        {
+            "title": "Control Engineering: MATLAB Exercises",
+            "doi": "10.1007/978-981-10-8321-1",
+            "authors": "Dr. L\u00e1szl\u00f3 KeviczkyDr. Ruth BarsDr. Jen\u0151 Hetth\u00e9ssyDr. Csilla B\u00e1ny\u00e1sz",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-10-8321-1.pdf"
+        },
+        {
+            "title": "Electronics for Embedded Systems",
+            "doi": "10.1007/978-3-319-39439-8",
+            "authors": "Ahmet Bindal",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-39439-8.pdf"
+        },
+        {
+            "title": "Introduction to Logic Circuits & Logic Design with Verilog",
+            "doi": "10.1007/978-3-030-13605-5",
+            "authors": "Brock J. LaMeres",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-13605-5.pdf"
+        },
+        {
+            "title": "Robotics",
+            "doi": "10.1007/978-1-84628-642-1",
+            "authors": "Bruno SicilianoLorenzo SciaviccoLuigi VillaniGiuseppe Oriolo",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-84628-642-1.pdf"
+        },
+        {
+            "title": "Introduction to Digital Systems Design",
+            "doi": "10.1007/978-3-319-92804-3",
+            "authors": "Prof. Giuliano DonzelliniLuca OnetoProf. Domenico PontaDavide Anguita",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-92804-3.pdf"
+        },
+        {
+            "title": "Life Cycle Assessment",
+            "doi": "10.1007/978-3-319-56475-3",
+            "authors": "Prof. Michael Z. HauschildDr. Ralph K. RosenbaumDr. Stig Irving Olsen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-56475-3.pdf"
+        },
+        {
+            "title": "Quick Start Guide to VHDL",
+            "doi": "10.1007/978-3-030-04516-6",
+            "authors": "Brock J. LaMeres",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-04516-6.pdf"
+        },
+        {
+            "title": "Additive Manufacturing Technologies",
+            "doi": "10.1007/978-1-4419-1120-9",
+            "authors": "Dr. Ian GibsonDr. David W. RosenDr. Brent Stucker",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4419-1120-9.pdf"
+        },
+        {
+            "title": "Roloff/Matek Maschinenelemente Formelsammlung",
+            "doi": "10.1007/978-3-658-19900-5",
+            "authors": "Herbert WittelDieter JannaschJoachim Vo\u00dfiekChristian Spura",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-19900-5.pdf"
+        },
+        {
+            "title": "Engineering Electromagnetics",
+            "doi": "10.1007/978-3-319-07806-9",
+            "authors": "Nathan Ida",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-07806-9.pdf"
+        },
+        {
+            "title": "The Finite Volume Method in Computational Fluid Dynamics",
+            "doi": "10.1007/978-3-319-16874-6",
+            "authors": "F. MoukalledL. ManganiM. Darwish",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-16874-6.pdf"
+        },
+        {
+            "title": "Structural Analysis",
+            "doi": "10.1007/978-90-481-2516-6",
+            "authors": "O. A. BauchauJ. I. Craig",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-90-481-2516-6.pdf"
+        },
+        {
+            "title": "Fundamentals of Power Electronics",
+            "doi": "10.1007/b100747",
+            "authors": "Robert W. EricksonDragan Maksimovi\u0107",
+            "url": "https://link.springer.com/content/pdf/10.1007/b100747.pdf"
+        },
+        {
+            "title": "Stability and Control of Linear Systems",
+            "doi": "10.1007/978-3-030-02405-5",
+            "authors": "Prof. Andrea Bacciotti",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-02405-5.pdf"
+        },
+        {
+            "title": "Quick Start Guide to Verilog",
+            "doi": "10.1007/978-3-030-10552-5",
+            "authors": "Brock J. LaMeres",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-10552-5.pdf"
+        },
+        {
+            "title": "Pahl/Beitz Konstruktionslehre",
+            "doi": "10.1007/978-3-642-29569-0",
+            "authors": "J\u00f6rg FeldhusenKarl-Heinrich Grote",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-29569-0.pdf"
+        },
+        {
+            "title": "Additive Manufacturing Technologies",
+            "doi": "10.1007/978-1-4939-2113-3",
+            "authors": "Ian GibsonDavid RosenBrent Stucker",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4939-2113-3.pdf"
+        },
+        {
+            "title": "Logistiksysteme",
+            "doi": "10.1007/978-3-662-56228-4",
+            "authors": "Prof. Hans-Christian Pfohl",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-56228-4.pdf"
+        },
+        {
+            "title": "Control Engineering",
+            "doi": "10.1007/978-981-10-8297-9",
+            "authors": "Dr. L\u00e1szl\u00f3 KeviczkyDr. Ruth BarsDr. Jen\u0151 Hetth\u00e9ssyDr. Csilla B\u00e1ny\u00e1sz",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-10-8297-9.pdf"
+        },
+        {
+            "title": "Reactive Power Control in AC Power Systems",
+            "doi": "10.1007/978-3-319-51118-4",
+            "authors": "Naser Mahdavi TabatabaeiAli Jafari AghbolaghiNicu BizonFrede Blaabjerg",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-51118-4.pdf"
+        },
+        {
+            "title": "Thermodynamics and Energy Conversion",
+            "doi": "10.1007/978-3-662-43715-5",
+            "authors": "Henning Struchtrup",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-43715-5.pdf"
+        },
+        {
+            "title": "Astronautics",
+            "doi": "10.1007/978-3-319-74373-8",
+            "authors": "Prof. Dr. Ulrich Walter",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-74373-8.pdf"
+        },
+        {
+            "title": "Automatic Control with Experiments",
+            "doi": "10.1007/978-3-319-75804-6",
+            "authors": "Dr. Victor Manuel Hern\u00e1ndez-Guzm\u00e1nProf. Dr. Ram\u00f3n Silva-Ortigoza",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-75804-6.pdf"
+        },
+        {
+            "title": "Introduction to Embedded Systems",
+            "doi": "10.1007/978-1-4614-3143-5",
+            "authors": "Manuel Jim\u00e9nezRogelio PalomeraIsidoro Couvertier",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4614-3143-5.pdf"
+        },
+        {
+            "title": "Introduction to Logic Circuits & Logic Design with VHDL",
+            "doi": "10.1007/978-3-319-34195-8",
+            "authors": "Brock J. LaMeres",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-34195-8.pdf"
+        },
+        {
+            "title": "Robotics",
+            "doi": "10.1007/978-3-319-72911-4",
+            "authors": "Prof. Dr. Matja\u017e MiheljProf. Dr. Tadej BajdProf. Dr. Ale\u0161 UdeProf. Dr. Jadran Lenar\u010di\u010dProf. Dr. Ale\u0161 StanovnikProf. Dr. Marko MunihDr. Jure RejcDr. Sebastjan \u0160lajpah",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-72911-4.pdf"
+        },
+        {
+            "title": "Intuitive Probability and Random Processes Using MATLAB\u00ae",
+            "doi": "10.1007/b104645",
+            "authors": "Steven M. Kay",
+            "url": "https://link.springer.com/content/pdf/10.1007/b104645.pdf"
+        },
+        {
+            "title": "Physik f\u00fcr Ingenieure",
+            "doi": "10.1007/978-3-662-49355-7",
+            "authors": "Ekbert HeringRolf MartinMartin Stohrer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-49355-7.pdf"
+        },
+        {
+            "title": "Roloff/Matek Maschinenelemente",
+            "doi": "10.1007/978-3-658-09082-1",
+            "authors": "Herbert WittelDieter MuhsDieter JannaschJoachim Vo\u00dfiek",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-09082-1.pdf"
+        },
+        {
+            "title": "Structural Dynamics",
+            "doi": "10.1007/978-3-319-94743-3",
+            "authors": "Prof. Mario PazYoung Hoon Kim",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-94743-3.pdf"
+        },
+        {
+            "title": "Engineering Mechanics 1",
+            "doi": "10.1007/978-3-642-30319-7",
+            "authors": "Dietmar GrossWerner HaugerJ\u00f6rg Schr\u00f6derWolfgang A. WallNimal Rajapakse",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-30319-7.pdf"
+        },
+        {
+            "title": "Maschinenbau",
+            "doi": "10.1007/978-3-662-55882-9",
+            "authors": "Dr. Werner Skolaut",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-55882-9.pdf"
+        },
+        {
+            "title": "Robotics, Vision and Control",
+            "doi": "10.1007/978-3-642-20144-8",
+            "authors": "Peter Corke",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-20144-8.pdf"
+        },
+        {
+            "title": "Fundamentals of Solid State Engineering",
+            "doi": "10.1007/978-3-319-75708-7",
+            "authors": "Manijeh Razeghi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-75708-7.pdf"
+        },
+        {
+            "title": "Air Pollution and Greenhouse Gases",
+            "doi": "10.1007/978-981-287-212-8",
+            "authors": "Zhongchao Tan",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-287-212-8.pdf"
+        },
+        {
+            "title": "Praktikum in Werkstoffkunde",
+            "doi": "10.1007/978-3-658-05038-2",
+            "authors": "Eckard MacherauchHans-Werner Zoch",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-05038-2.pdf"
+        },
+        {
+            "title": "Statics and Mechanics of Structures",
+            "doi": "10.1007/978-94-007-6113-1",
+            "authors": "Steen KrenkJan H\u00f8gsberg",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-94-007-6113-1.pdf"
+        },
+        {
+            "title": "Optimization of Process Flowsheets through Metaheuristic Techniques",
+            "doi": "10.1007/978-3-319-91722-1",
+            "authors": "Prof. Dr. Jos\u00e9 Mar\u00eda Ponce-OrtegaLuis Germ\u00e1n Hern\u00e1ndez-P\u00e9rez",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-91722-1.pdf"
+        },
+        {
+            "title": "An Introduction to Soil Mechanics",
+            "doi": "10.1007/978-3-319-61185-3",
+            "authors": "Prof. Dr. Arnold Verruijt",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-61185-3.pdf"
+        },
+        {
+            "title": "Robotics, Vision and Control",
+            "doi": "10.1007/978-3-319-54413-7",
+            "authors": "Peter Corke",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-54413-7.pdf"
+        },
+        {
+            "title": "Multimedia Big Data Computing for IoT Applications",
+            "doi": "10.1007/978-981-13-8759-3",
+            "authors": "Dr. Sudeep TanwarDr. Sudhanshu TyagiDr. Neeraj Kumar",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-8759-3.pdf"
+        },
+        {
+            "title": "Engineering Mechanics 2",
+            "doi": "10.1007/978-3-662-56272-7",
+            "authors": "Prof. Dr. Dietmar GrossWerner HaugerProf. Dr. J\u00f6rg Schr\u00f6derProf. Dr. Wolfgang A. WallJavier Bonet",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-56272-7.pdf"
+        },
+        {
+            "title": "Practical Electrical Engineering",
+            "doi": "10.1007/978-3-319-21173-2",
+            "authors": "Sergey N. MakarovReinhold LudwigStephen J. Bitar",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-21173-2.pdf"
+        }
+    ],
+    "Medicine & Public Health": [
+        {
+            "title": "Non-Vitamin K Antagonist Oral Anticoagulants",
+            "doi": "10.1007/978-3-319-25460-9",
+            "authors": "Eduard ShantsilaGregory YH Lip",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-25460-9.pdf"
+        },
+        {
+            "title": "The South Texas Health Status Review",
+            "doi": "10.1007/978-3-319-00233-0",
+            "authors": "Amelie G. RamirezIan M. ThompsonLeonel Vela",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-00233-0.pdf"
+        },
+        {
+            "title": "Safer Healthcare",
+            "doi": "10.1007/978-3-319-25559-0",
+            "authors": "Charles VincentRen\u00e9 Amalberti",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-25559-0.pdf"
+        },
+        {
+            "title": "Aging Well",
+            "doi": "10.1007/978-981-13-2164-1",
+            "authors": "Jean GalianaDr. William A. Haseltine",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-2164-1.pdf"
+        },
+        {
+            "title": "X-Ray Contrast Media",
+            "doi": "10.1007/978-3-662-56465-3",
+            "authors": "Prof. Ulrich Speck",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-56465-3.pdf"
+        },
+        {
+            "title": "A History of Self-Harm in Britain",
+            "doi": "10.1007/978-1-137-52962-6",
+            "authors": "Chris Millard",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-137-52962-6.pdf"
+        },
+        {
+            "title": "White Paper on Joint Replacement",
+            "doi": "10.1007/978-3-662-55918-5",
+            "authors": "Hans-Holger Ble\u00dfMiriam Kip",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-55918-5.pdf"
+        },
+        {
+            "title": "Updates on Myopia",
+            "doi": "10.1007/978-981-13-8491-2",
+            "authors": "Dr. Marcus AngProf. Tien Y. Wong",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-8491-2.pdf"
+        },
+        {
+            "title": "High Resolution Imaging in Microscopy and Ophthalmology",
+            "doi": "10.1007/978-3-030-16638-0",
+            "authors": "Prof. Dr. Josef F. Bille",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-16638-0.pdf"
+        },
+        {
+            "title": "Neurovascular Surgery",
+            "doi": "10.1007/978-981-10-8950-3",
+            "authors": "Dr. Julius JulyProf. Eka J. Wahjoepramono",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-10-8950-3.pdf"
+        },
+        {
+            "title": "Health and Wellbeing in Late Life",
+            "doi": "10.1007/978-981-13-8938-2",
+            "authors": "Dr. Prasun Chatterjee",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-8938-2.pdf"
+        },
+        {
+            "title": "Secondary Analysis of Electronic Health Records",
+            "doi": "10.1007/978-3-319-43742-2",
+            "authors": "MIT Critical Data",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-43742-2.pdf"
+        },
+        {
+            "title": "Primary Angioplasty",
+            "doi": "10.1007/978-981-13-1114-7",
+            "authors": "Dr. Timothy J WatsonDr. Paul JL OngProf. James E Tcheng",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-1114-7.pdf"
+        },
+        {
+            "title": "Fragility Fracture Nursing",
+            "doi": "10.1007/978-3-319-76681-2",
+            "authors": "Dr. Karen HertzDr. Julie Santy-Tomlinson",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-76681-2.pdf"
+        },
+        {
+            "title": "Molecular Mechanism of Congenital Heart Disease and Pulmonary Hypertension",
+            "doi": "10.1007/978-981-15-1185-1",
+            "authors": "Dr. Toshio NakanishiDr. H. Scott BaldwinDr. Jeffrey R. FinemanDr. Hiroyuki Yamagishi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-15-1185-1.pdf"
+        },
+        {
+            "title": "Advancing the Science of Cancer in Latinos",
+            "doi": "10.1007/978-3-030-29286-7",
+            "authors": "Amelie G. RamirezDr. Edward J. Trapido",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-29286-7.pdf"
+        },
+        {
+            "title": "Krankenhaus-Report 2020",
+            "doi": "10.1007/978-3-662-60487-8",
+            "authors": "J\u00fcrgen KlauberProf. Dr. Max GeraedtsJ\u00f6rg FriedrichProf. Dr. J\u00fcrgen WasemProf. Dr. Andreas Beivers",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-60487-8.pdf"
+        },
+        {
+            "title": "The Handbook of Salutogenesis",
+            "doi": "10.1007/978-3-319-04600-6",
+            "authors": "Maurice B. MittelmarkShifra SagyMonica ErikssonGeorg F. BauerJ\u00fcrgen M. PelikanBengt Lindstr\u00f6mGeir Arild Espnes",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-04600-6.pdf"
+        },
+        {
+            "title": "Das Blaue Buch",
+            "doi": "10.1007/978-3-662-51420-7",
+            "authors": "Prof. Dr. Monika EngelhardtProf. Dr. Dietmar P. BergerProf. Dr. Dr. h.c. Roland MertelsmannProf. Dr. Justus Duyster",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-51420-7.pdf"
+        },
+        {
+            "title": "Wei\u00dfbuch Multiple Sklerose",
+            "doi": "10.1007/978-3-662-49204-8",
+            "authors": "Dr. med. M. KipDr. rer. medic. T. Sch\u00f6nfelderH.-H. Ble\u00df",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-49204-8.pdf"
+        },
+        {
+            "title": "Compartment Syndrome",
+            "doi": "10.1007/978-3-030-22331-1",
+            "authors": "MD Cyril MauffreyMD David J. HakMD Murphy P. Martin III",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-22331-1.pdf"
+        },
+        {
+            "title": "Dilated Cardiomyopathy",
+            "doi": "10.1007/978-3-030-13864-6",
+            "authors": "Gianfranco SinagraMarco MerloBruno Pinamonti",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-13864-6.pdf"
+        },
+        {
+            "title": "Etiology and Morphogenesis of Congenital Heart Disease",
+            "doi": "10.1007/978-4-431-54628-3",
+            "authors": "Toshio NakanishiProf. Dr. Roger R. MarkwaldMD H.Scott BaldwinDr. Bradley B. KellerMD Deepak SrivastavaProf. Hiroyuki Yamagishi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-4-431-54628-3.pdf"
+        },
+        {
+            "title": "Handbook of Life Course Health Development",
+            "doi": "10.1007/978-3-319-47143-3",
+            "authors": "Neal HalfonChristopher B. ForrestRichard M. LernerElaine M. Faustman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-47143-3.pdf"
+        },
+        {
+            "title": "Perspectives on Nuclear Medicine for Molecular Diagnosis and Integrated Therapy",
+            "doi": "10.1007/978-4-431-55894-1",
+            "authors": "Yuji KugeTohru ShigaNagara Tamaki",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-4-431-55894-1.pdf"
+        },
+        {
+            "title": "A History of Radionuclide Studies in the UK",
+            "doi": "10.1007/978-3-319-28624-2",
+            "authors": "Prof. Ralph McCreadyDr. Gopinath GnanasegaranDr. Jamshed B. Bomanji",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-28624-2.pdf"
+        },
+        {
+            "title": "Vessel Health and Preservation: The Right Approach for Vascular Access",
+            "doi": "10.1007/978-3-030-03149-7",
+            "authors": "Dr. Nancy L. Moureau",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-03149-7.pdf"
+        },
+        {
+            "title": "Global Health Collaboration",
+            "doi": "10.1007/978-3-319-77685-9",
+            "authors": "Margaret S. WinchesterCaprice A. KnappRhonda BeLue",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-77685-9.pdf"
+        },
+        {
+            "title": "Diseases of the Chest, Breast, Heart and Vessels 2019-2022",
+            "doi": "10.1007/978-3-030-11149-6",
+            "authors": "Juerg HodlerRahel A. Kubik-HuchProf. Dr. Gustav K. von Schulthess",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-11149-6.pdf"
+        },
+        {
+            "title": "Tuberculosis in Adults and Children",
+            "doi": "10.1007/978-3-319-19132-4",
+            "authors": "Dorothee HeemskerkMaxine CawsBen MaraisJeremy Farrar",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-19132-4.pdf"
+        },
+        {
+            "title": "The European Blood and Marrow Transplantation Textbook for Nurses",
+            "doi": "10.1007/978-3-319-50026-3",
+            "authors": "Michelle KenyonAleksandra Babic",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-50026-3.pdf"
+        },
+        {
+            "title": "Surgical Ophthalmic Oncology",
+            "doi": "10.1007/978-3-030-18757-6",
+            "authors": "MD Sonal S. ChauguleMD Santosh G. HonavarMD Paul T. Finger",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-18757-6.pdf"
+        },
+        {
+            "title": "Wei\u00dfbuch Gelenkersatz",
+            "doi": "10.1007/978-3-662-53260-7",
+            "authors": "H.-H. Ble\u00dfDr. med M. Kip",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-53260-7.pdf"
+        },
+        {
+            "title": "Pflege-Report 2019",
+            "doi": "10.1007/978-3-662-58935-9",
+            "authors": "Prof. Dr. Klaus JacobsProf. Dr. Adelheid KuhlmeyProf. Dr. Stefan Gre\u00dfJ\u00fcrgen KlauberDr. Antje Schwinger",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-58935-9.pdf"
+        },
+        {
+            "title": "Krankenhaus-Report 2019",
+            "doi": "10.1007/978-3-662-58225-1",
+            "authors": "J\u00fcrgen KlauberMax GeraedtsJ\u00f6rg FriedrichJ\u00fcrgen Wasem",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-58225-1.pdf"
+        },
+        {
+            "title": "Information Infrastructures within European Health Care",
+            "doi": "10.1007/978-3-319-51020-0",
+            "authors": "Margunn AanestadMiria GrisotOle HansethPolyxeni Vassilakopoulou",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-51020-0.pdf"
+        },
+        {
+            "title": "Fundamentals of Clinical Data Science",
+            "doi": "10.1007/978-3-319-99713-1",
+            "authors": "Dr. Pieter KubbenMichel DumontierProf. Dr. Andre Dekker",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-99713-1.pdf"
+        },
+        {
+            "title": "Public Health Ethics: Cases Spanning the Globe",
+            "doi": "10.1007/978-3-319-23847-0",
+            "authors": "Drue H. BarrettLeonard W. OrtmannAngus DawsonCarla SaenzAndreas ReisGail Bolan",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-23847-0.pdf"
+        },
+        {
+            "title": "A Life Course Perspective on Health Trajectories and Transitions",
+            "doi": "10.1007/978-3-319-20484-0",
+            "authors": "Claudine Burton-JeangrosSt\u00e9phane CullatiAmanda SackerDavid Blane",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-20484-0.pdf"
+        },
+        {
+            "title": "Creating Healthy and Sustainable Buildings",
+            "doi": "10.1007/978-3-030-19412-3",
+            "authors": "Dr. Mateja DovjakAssist. Prof. Andreja Kukec",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-19412-3.pdf"
+        },
+        {
+            "title": "Diseases of the Abdomen and Pelvis 2018-2021",
+            "doi": "10.1007/978-3-319-75019-4",
+            "authors": "Juerg HodlerDr. Rahel A. Kubik-HuchProf. Dr. Gustav K. von Schulthess",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-75019-4.pdf"
+        },
+        {
+            "title": "Pflege-Report 2018",
+            "doi": "10.1007/978-3-662-56822-4",
+            "authors": "Klaus JacobsAdelheid KuhlmeyStefan Gre\u00dfJ\u00fcrgen KlauberAntje Schwinger",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-56822-4.pdf"
+        },
+        {
+            "title": "Multilevel Modelling for Public Health and Health Services Research",
+            "doi": "10.1007/978-3-030-34801-4",
+            "authors": "Alastair H. LeylandPeter P. Groenewegen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-34801-4.pdf"
+        },
+        {
+            "title": "Sepsis Management in Resource-limited Settings",
+            "doi": "10.1007/978-3-030-03143-5",
+            "authors": "Prof. Dr. Arjen M. DondorpMD Martin W. D\u00fcnserMD Marcus J. Schultz",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-03143-5.pdf"
+        },
+        {
+            "title": "The EBMT Handbook",
+            "doi": "10.1007/978-3-030-02278-5",
+            "authors": "Enric CarrerasCarlo DufourMohamad MohtyNicolaus Kr\u00f6ger",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-02278-5.pdf"
+        },
+        {
+            "title": "The Ethics of Medical Data Donation",
+            "doi": "10.1007/978-3-030-04363-6",
+            "authors": "Dr. Jenny KrutzinnaProf. Luciano Floridi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-04363-6.pdf"
+        },
+        {
+            "title": "Diseases of the Brain, Head and Neck, Spine 2020\u20132023",
+            "doi": "10.1007/978-3-030-38490-6",
+            "authors": "Juerg HodlerDr. Rahel A. Kubik-HuchProf. Dr. Gustav K. von Schulthess",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-38490-6.pdf"
+        },
+        {
+            "title": "Pflegewissen Intermediate Care",
+            "doi": "10.1007/978-3-662-49511-7",
+            "authors": "Jutta BuschBirgit Trierweiler-Hauke",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-49511-7.pdf"
+        },
+        {
+            "title": "Breast Cancer",
+            "doi": "10.1007/978-3-319-48848-6",
+            "authors": "Prof. Umberto VeronesiDr. Aron GoldhirschPaolo VeronesiDr. Oreste Davide GentiliniMaria Cristina Leonardi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-48848-6.pdf"
+        },
+        {
+            "title": "Beatmung",
+            "doi": "10.1007/978-3-662-54853-0",
+            "authors": "Reinhard LarsenThomas Ziegenfu\u00dfAlexander Mathes",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-54853-0.pdf"
+        },
+        {
+            "title": "Monitoring Mechanical Ventilation Using Ventilator Waveforms",
+            "doi": "10.1007/978-3-319-58655-7",
+            "authors": "Dr. Jean-Michel Arnal",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-58655-7.pdf"
+        },
+        {
+            "title": "Beatmung f\u00fcr Einsteiger",
+            "doi": "10.1007/978-3-662-59294-6",
+            "authors": "Hartmut Lang",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-59294-6.pdf"
+        },
+        {
+            "title": "Pocket Guide Beatmung",
+            "doi": "10.1007/978-3-662-59657-9",
+            "authors": "Prof. Dr. Reinhard LarsenDr. Thomas Ziegenfu\u00df",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-59657-9.pdf"
+        },
+        {
+            "title": "Primer on the Rheumatic Diseases",
+            "doi": "10.1007/978-0-387-68566-3",
+            "authors": "John H. Klippel MDJohn H. Stone MD, MPHLeslie J. Crofford MDPatience H. White MD, MA",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-0-387-68566-3.pdf"
+        },
+        {
+            "title": "Repetitorium Internistische Intensivmedizin",
+            "doi": "10.1007/978-3-662-53182-2",
+            "authors": "Guido MichelsMatthias Kochanek",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-53182-2.pdf"
+        },
+        {
+            "title": "Weaning",
+            "doi": "10.1007/978-3-662-49795-1",
+            "authors": "Dr. Johannes BickenbachProf. Dr. Gernot MarxProf. Michael DreherProf. Dr. Bernd Sch\u00f6nhofer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-49795-1.pdf"
+        },
+        {
+            "title": "Basiswissen Humangenetik",
+            "doi": "10.1007/978-3-662-56147-8",
+            "authors": "Christian P. SchaafJohannes Zschocke",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-56147-8.pdf"
+        },
+        {
+            "title": "Reinigungsdienste und Hygiene in Krankenh\u00e4usern und Pflegeeinrichtungen",
+            "doi": "10.1007/978-3-662-52723-8",
+            "authors": "Ludwig C. Weber",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-52723-8.pdf"
+        },
+        {
+            "title": "Artificial Intelligence in Medical Imaging",
+            "doi": "10.1007/978-3-319-94878-2",
+            "authors": "MD Erik R. RanschaertMD Sergey MorozovMD Paul R. Algra",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-94878-2.pdf"
+        },
+        {
+            "title": "Coronaviruses and their Diseases",
+            "doi": "10.1007/978-1-4684-5823-7",
+            "authors": "David Cavanagh Ph.D.T. David K. Brown Ph.D.",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4684-5823-7.pdf"
+        },
+        {
+            "title": "Pflegewissen Pneumologie",
+            "doi": "10.1007/978-3-662-52667-5",
+            "authors": "Gabriele IberlMavi Schellenberg",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-52667-5.pdf"
+        },
+        {
+            "title": "Physiologie des Menschen",
+            "doi": "10.1007/978-3-642-01651-6",
+            "authors": "Dr.h.c. Robert F Schmidt Ph.DDr. Florian LangDr. Manfred Heckmann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-01651-6.pdf"
+        },
+        {
+            "title": "WSES Handbook of Mass Casualties Incidents Management",
+            "doi": "10.1007/978-3-319-92345-1",
+            "authors": "Prof. Yoram KlugerDr. Federico CoccoliniDr. Fausto CatenaDr. Luca Ansaloni",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-92345-1.pdf"
+        },
+        {
+            "title": "Prevention and Control of Infections in Hospitals",
+            "doi": "10.1007/978-3-319-99921-0",
+            "authors": "Prof. Dr. Bj\u00f8rg Marit Andersen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-99921-0.pdf"
+        },
+        {
+            "title": "Evolutionary Thinking in Medicine",
+            "doi": "10.1007/978-3-319-29716-3",
+            "authors": "Alexandra AlvergneCrispin JenkinsonCharlotte Faurie",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-29716-3.pdf"
+        },
+        {
+            "title": "Neurologie",
+            "doi": "10.1007/978-3-662-46892-0",
+            "authors": "Werner Hacke",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-46892-0.pdf"
+        },
+        {
+            "title": "Allgemeine und Spezielle Pathologie",
+            "doi": "10.1007/978-3-662-48725-9",
+            "authors": "Ursus-Nikolaus RiedeMartin Werner",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-48725-9.pdf"
+        },
+        {
+            "title": "Basiswissen Pharmakologie",
+            "doi": "10.1007/978-3-662-56303-8",
+            "authors": "Prof. Dr. med. Roland Seifert",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-56303-8.pdf"
+        },
+        {
+            "title": "Cardiovascular Biomechanics",
+            "doi": "10.1007/978-3-319-46407-7",
+            "authors": "Peter R. HoskinsPatricia V. LawfordBarry J. Doyle",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-46407-7.pdf"
+        },
+        {
+            "title": "Noninvasive Ventilation in High-Risk Infections and Mass Casualty Events",
+            "doi": "10.1007/978-3-7091-1496-4",
+            "authors": "Antonio M. Esquinas",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-7091-1496-4.pdf"
+        },
+        {
+            "title": "L\u00f6ffler/Petrides Biochemie und Pathobiochemie",
+            "doi": "10.1007/978-3-642-17972-3",
+            "authors": "Prof. Dr. Peter C. HeinrichProf. Dr. Matthias M\u00fcllerProf. Dr. Lutz Graeve",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-17972-3.pdf"
+        },
+        {
+            "title": "Coronaviruses with Special Emphasis on First Insights Concerning SARS",
+            "doi": "10.1007/b137625",
+            "authors": "Axel SchmidtOlaf WeberManfred H. Wolff",
+            "url": "https://link.springer.com/content/pdf/10.1007/b137625.pdf"
+        },
+        {
+            "title": "Praxis der Intensivmedizin",
+            "doi": "10.1007/978-3-642-34433-6",
+            "authors": "Prof. Dr. med. Wolfram Wilhelm DEAA",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-34433-6.pdf"
+        },
+        {
+            "title": "Spine Surgery",
+            "doi": "10.1007/978-3-319-98875-7",
+            "authors": "Bernhard MeyerMichael Rauschmann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-98875-7.pdf"
+        },
+        {
+            "title": "Animal Coronaviruses",
+            "doi": "10.1007/978-1-4939-3414-0",
+            "authors": "Leyi Wang",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4939-3414-0.pdf"
+        },
+        {
+            "title": "Pharmakologie und Toxikologie",
+            "doi": "10.1007/978-3-662-46689-6",
+            "authors": "Prof. Dr. med. Michael FreissmuthProf. Dr. med. Stefan OffermannsUniv.-Prof. Dr. med. Stefan B\u00f6hm",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-46689-6.pdf"
+        },
+        {
+            "title": "The ASCRS Textbook of Colon and Rectal Surgery",
+            "doi": "10.1007/978-3-319-25970-3",
+            "authors": "Dr. Scott R. SteeleMD Tracy L. HullDr. Thomas E. ReadMD Theodore J. SaclaridesMD Anthony J. SenagoreCharles B. Whitlow",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-25970-3.pdf"
+        },
+        {
+            "title": "Biomedical Informatics",
+            "doi": "10.1007/978-1-4471-4474-8",
+            "authors": "Edward H. ShortliffeJames J. Cimino",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4471-4474-8.pdf"
+        },
+        {
+            "title": "Evidence-Based Critical Care",
+            "doi": "10.1007/978-3-319-43341-7",
+            "authors": "Robert C. Hyzy",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-43341-7.pdf"
+        }
+    ],
+    "Social Sciences": [
+        {
+            "title": "Forensic Genetics in the Governance of Crime",
+            "doi": "10.1007/978-981-15-2429-5",
+            "authors": "Helena MachadoDr. Rafaela Granja",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-15-2429-5.pdf"
+        },
+        {
+            "title": "Understanding Society and Natural Resources",
+            "doi": "10.1007/978-94-017-8959-2",
+            "authors": "Michael J. ManfredoJerry J. VaskeAndreas RechkemmerEsther A. Duke",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-94-017-8959-2.pdf"
+        },
+        {
+            "title": "Autistic Community and the Neurodiversity Movement",
+            "doi": "10.1007/978-981-13-8437-0",
+            "authors": "Steven K. Kapp",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-8437-0.pdf"
+        },
+        {
+            "title": "Pragmatic Philanthropy",
+            "doi": "10.1007/978-981-10-7119-5",
+            "authors": "Ruth A. ShapiroManisha MirchandaniHeesu Jang",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-10-7119-5.pdf"
+        },
+        {
+            "title": "Junge Perspektiven der T\u00fcrkeiforschung in Deutschland",
+            "doi": "10.1007/978-3-658-04324-7",
+            "authors": "Klaus KreiserRaoul MotikaUdo SteinbachCharlotte JoppienLudwig Schulz",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-04324-7.pdf"
+        },
+        {
+            "title": "Grassroots Politics and Oil Culture in Venezuela",
+            "doi": "10.1007/978-3-319-59507-8",
+            "authors": "Iselin \u00c5sedotter Str\u00f8nen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-59507-8.pdf"
+        },
+        {
+            "title": "The Restless Compendium",
+            "doi": "10.1007/978-3-319-45264-7",
+            "authors": "Felicity CallardKimberley StainesJames Wilkes",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-45264-7.pdf"
+        },
+        {
+            "title": "Care in Healthcare",
+            "doi": "10.1007/978-3-319-61291-1",
+            "authors": "Franziska KrauseJoachim Boldt",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-61291-1.pdf"
+        },
+        {
+            "title": "Inter-group Relations and Migrant Integration in European Cities",
+            "doi": "10.1007/978-3-319-23096-2",
+            "authors": "Ferruccio PastoreIrene Ponzo",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-23096-2.pdf"
+        },
+        {
+            "title": "Promoting Active Citizenship",
+            "doi": "10.1007/978-3-319-55381-8",
+            "authors": "Karl Henrik SivesindJo Saglie",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-55381-8.pdf"
+        },
+        {
+            "title": "Weather & Climate Services for the Energy Industry",
+            "doi": "10.1007/978-3-319-68418-5",
+            "authors": "Prof. Alberto Troccoli",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-68418-5.pdf"
+        },
+        {
+            "title": "Atlas of Challenges and Opportunities in European Neighbourhoods",
+            "doi": "10.1007/978-3-319-28521-4",
+            "authors": "Pierre BeckouchePierre BesnardHugues Pecout",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-28521-4.pdf"
+        },
+        {
+            "title": "The Values of Independent Hip-Hop in the Post-Golden Era",
+            "doi": "10.1007/978-3-030-02481-9",
+            "authors": "Christopher Vito",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-02481-9.pdf"
+        },
+        {
+            "title": "Energy Poverty",
+            "doi": "10.1007/978-3-319-69299-9",
+            "authors": "Stefan Bouzarovski",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-69299-9.pdf"
+        },
+        {
+            "title": "Trade Unions on YouTube",
+            "doi": "10.1007/978-3-030-24914-4",
+            "authors": "Jenny JanssonKatrin Uba",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-24914-4.pdf"
+        },
+        {
+            "title": "Conviviality at the Crossroads",
+            "doi": "10.1007/978-3-030-28979-9",
+            "authors": "Oscar HemerMaja Povrzanovi\u0107 FrykmanPer-Markku Ristilammi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-28979-9.pdf"
+        },
+        {
+            "title": "Knowledge and Networks",
+            "doi": "10.1007/978-3-319-45023-0",
+            "authors": "Johannes Gl\u00fccklerEmmanuel LazegaIngmar Hammer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-45023-0.pdf"
+        },
+        {
+            "title": "Youth Transitions among Descendants of Turkish Immigrants in Amsterdam and Strasbourg:",
+            "doi": "10.1007/978-3-030-11790-0",
+            "authors": "Dr. Elif Keskiner",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-11790-0.pdf"
+        },
+        {
+            "title": "Social Dynamics in Swiss Society",
+            "doi": "10.1007/978-3-319-89557-4",
+            "authors": "Dr. Robin TillmannDr. Marieke VoorpostelProf. Dr. Peter Farago",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-89557-4.pdf"
+        },
+        {
+            "title": "Frauen und M\u00e4nner in der zweiten Lebensh\u00e4lfte",
+            "doi": "10.1007/978-3-658-25079-9",
+            "authors": "Dr. Claudia VogelDr. Markus WettsteinProf. Dr. Clemens Tesch-R\u00f6mer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-25079-9.pdf"
+        },
+        {
+            "title": "The Everyday Life of an Algorithm",
+            "doi": "10.1007/978-3-030-00578-8",
+            "authors": "Dr. Daniel Neyland",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-00578-8.pdf"
+        },
+        {
+            "title": "Constructing Roma Migrants",
+            "doi": "10.1007/978-3-030-11373-5",
+            "authors": "Tina MagazziniStefano Piemontese",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-11373-5.pdf"
+        },
+        {
+            "title": "Pentecostalism and Witchcraft",
+            "doi": "10.1007/978-3-319-56068-7",
+            "authors": "Knut RioMichelle MacCarthyRuy Blanes",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-56068-7.pdf"
+        },
+        {
+            "title": "Cohabitation and Marriage in the Americas: Geo-historical Legacies and New Trends",
+            "doi": "10.1007/978-3-319-31442-6",
+            "authors": "Albert EsteveRon J. Lesthaeghe",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-31442-6.pdf"
+        },
+        {
+            "title": "Science of Societal Safety",
+            "doi": "10.1007/978-981-13-2775-9",
+            "authors": "Seiji AbeProf. Mamoru OzawaProf. Yoshiaki Kawata",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-2775-9.pdf"
+        },
+        {
+            "title": "Freiwilliges Engagement in Deutschland",
+            "doi": "10.1007/978-3-658-12644-5",
+            "authors": "Julia SimonsonClaudia VogelClemens Tesch-R\u00f6mer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-12644-5.pdf"
+        },
+        {
+            "title": "Same-Sex Families and Legal Recognition in Europe",
+            "doi": "10.1007/978-3-030-37054-1",
+            "authors": "Dr. Marie Digoix",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-37054-1.pdf"
+        },
+        {
+            "title": "Knowledge and Action",
+            "doi": "10.1007/978-3-319-44588-5",
+            "authors": "Peter MeusburgerBenno WerlenLaura Suarsana",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-44588-5.pdf"
+        },
+        {
+            "title": "The Third Sector as a Renewable Resource for Europe",
+            "doi": "10.1007/978-3-319-71473-8",
+            "authors": "Bernard EnjolrasLester M. SalamonKarl Henrik SivesindAnnette Zimmer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-71473-8.pdf"
+        },
+        {
+            "title": "Transdisziplin\u00e4r und transformativ forschen",
+            "doi": "10.1007/978-3-658-21530-9",
+            "authors": "Dr. Antonietta Di GiulioRico Defila",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-21530-9.pdf"
+        },
+        {
+            "title": "Divorce in Europe",
+            "doi": "10.1007/978-3-030-25838-2",
+            "authors": "Prof. Dimitri Mortelmans",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-25838-2.pdf"
+        },
+        {
+            "title": "Surveying Human Vulnerabilities across the Life Course",
+            "doi": "10.1007/978-3-319-24157-9",
+            "authors": "Dr. Michel OrisProf. Caroline RobertsProf. Dominique JoyeDr. Mich\u00e8le Ernst St\u00e4hli",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-24157-9.pdf"
+        },
+        {
+            "title": "Contested Childhoods: Growing up in Migrancy",
+            "doi": "10.1007/978-3-319-44610-3",
+            "authors": "Marie Louise SeebergEl\u017cbieta M. Go\u017adziak",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-44610-3.pdf"
+        },
+        {
+            "title": "How Generations Remember",
+            "doi": "10.1057/978-1-137-45063-0",
+            "authors": "Monika Palmberger",
+            "url": "https://link.springer.com/content/pdf/10.1057/978-1-137-45063-0.pdf"
+        },
+        {
+            "title": "Regional and Local Development in Times of Polarisation",
+            "doi": "10.1007/978-981-13-1190-1",
+            "authors": "Dr. Thilo LangDr. Franziska G\u00f6rmar",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-1190-1.pdf"
+        },
+        {
+            "title": "Differential Undercounts in the U.S. Census",
+            "doi": "10.1007/978-3-030-10973-8",
+            "authors": "Dr. William P. O\u2019Hare",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-10973-8.pdf"
+        },
+        {
+            "title": "European Somalis' Post-Migration Movements",
+            "doi": "10.1007/978-3-319-95660-2",
+            "authors": "Dr. Jo\u00eblle Moret",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-95660-2.pdf"
+        },
+        {
+            "title": "Pathways and Consequences of Legal Irregularity",
+            "doi": "10.1007/978-3-030-12088-7",
+            "authors": "Dr. Erik R. Vickstrom",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-12088-7.pdf"
+        },
+        {
+            "title": "Geographies of Schooling",
+            "doi": "10.1007/978-3-030-18799-6",
+            "authors": "Prof. Dr. Holger JahnkeProf. Dr. Caroline KramerProf. Dr. Peter Meusburger",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-18799-6.pdf"
+        },
+        {
+            "title": "Internal Diversity",
+            "doi": "10.1007/978-3-030-27790-1",
+            "authors": "Sonja Moghaddari",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-27790-1.pdf"
+        },
+        {
+            "title": "Model-Based Demography",
+            "doi": "10.1007/978-3-319-65433-1",
+            "authors": "Prof. Thomas K. Burch",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-65433-1.pdf"
+        },
+        {
+            "title": "Twitter als Basis wissenschaftlicher Studien",
+            "doi": "10.1007/978-3-658-14414-2",
+            "authors": "Fabian Pfaffenberger",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-14414-2.pdf"
+        },
+        {
+            "title": "Coming to Terms with Superdiversity",
+            "doi": "10.1007/978-3-319-96041-8",
+            "authors": "Dr. Peter ScholtenProf. Dr. Maurice CrulProf. Paul van de Laar",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-96041-8.pdf"
+        },
+        {
+            "title": "H\u00e4user machen Schule",
+            "doi": "10.1007/978-3-658-26653-0",
+            "authors": "Dr. Jan Egger",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-26653-0.pdf"
+        },
+        {
+            "title": "New Frontiers in Social Innovation Research",
+            "doi": "10.1057/9781137506801",
+            "authors": "Alex NichollsJulie SimonMadeleine Gabriel",
+            "url": "https://link.springer.com/content/pdf/10.1057/9781137506801.pdf"
+        },
+        {
+            "title": "Situating Children of Migrants across Borders and Origins",
+            "doi": "10.1007/978-94-024-1141-6",
+            "authors": "Prof. Claudio BolzmanProf. Laura BernardiJean-Marie Le Goff",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-94-024-1141-6.pdf"
+        },
+        {
+            "title": "Contemporary Perspectives on Ageism",
+            "doi": "10.1007/978-3-319-73820-8",
+            "authors": "Prof. Liat AyalonProf. Dr. Clemens Tesch-R\u00f6mer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-73820-8.pdf"
+        },
+        {
+            "title": "Migration, Gender and Social Justice",
+            "doi": "10.1007/978-3-642-28012-2",
+            "authors": "Thanh-Dam TruongDes GasperJeff HandmakerSylvia I. Bergh",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-28012-2.pdf"
+        },
+        {
+            "title": "New and Old Routes of Portuguese Emigration",
+            "doi": "10.1007/978-3-030-15134-8",
+            "authors": "Dr. Cl\u00e1udia PereiraDr. Joana Azevedo",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-15134-8.pdf"
+        },
+        {
+            "title": "\u201eDeutschland ist das Land der Chancen\u201c",
+            "doi": "10.1007/978-3-658-24966-3",
+            "authors": "Dr. Marc CalmbachDr. James Edwards",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-24966-3.pdf"
+        },
+        {
+            "title": "Migrating and Settling in a Mobile World",
+            "doi": "10.1007/978-3-319-13024-8",
+            "authors": "Zana Vathi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-13024-8.pdf"
+        },
+        {
+            "title": "\u00d6ffentliche Verwaltung \u2013 Verwaltung in der \u00d6ffentlichkeit",
+            "doi": "10.1007/978-3-658-28008-6",
+            "authors": "Prof. Dr. Klaus KocksProf. Dr. Susanne KnorreJan Niklas Kocks",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-28008-6.pdf"
+        },
+        {
+            "title": "Social Statistics and Ethnic Diversity",
+            "doi": "10.1007/978-3-319-20095-8",
+            "authors": "Patrick SimonVictor Pich\u00e9Am\u00e9lie A. Gagnon",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-20095-8.pdf"
+        },
+        {
+            "title": "Energy Demand Challenges in Europe",
+            "doi": "10.1007/978-3-030-20339-9",
+            "authors": "Dr. Frances FahyDr. Gary GogginsDr. Charlotte Jensen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-20339-9.pdf"
+        },
+        {
+            "title": "Sequence Analysis and Related Approaches",
+            "doi": "10.1007/978-3-319-95420-2",
+            "authors": "Prof. Gilbert RitschardMatthias Studer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-95420-2.pdf"
+        },
+        {
+            "title": "The Social Life of Economic Inequalities in Contemporary Latin America",
+            "doi": "10.1007/978-3-319-61536-3",
+            "authors": "Margit YstanesIselin \u00c5sedotter Str\u00f8nen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-61536-3.pdf"
+        },
+        {
+            "title": "South-North Migration of EU Citizens in Times of Crisis",
+            "doi": "10.1007/978-3-319-39763-4",
+            "authors": "Jean-Michel LafleurMikolaj Stanek",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-39763-4.pdf"
+        },
+        {
+            "title": "mHealth Innovation in Asia",
+            "doi": "10.1007/978-94-024-1251-2",
+            "authors": "Emma BaulchProf. Jerry WatkinsAmina Tariq",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-94-024-1251-2.pdf"
+        },
+        {
+            "title": "The Places Where Community Is Practiced",
+            "doi": "10.1007/978-3-658-25393-6",
+            "authors": "Dr. Anna Steigemann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-25393-6.pdf"
+        },
+        {
+            "title": "Visualizing Mortality Dynamics in the Lexis Diagram",
+            "doi": "10.1007/978-3-319-64820-0",
+            "authors": "Roland RauChristina Bohk-EwaldMagdalena M. Muszy\u0144skaProf. Dr. James W. Vaupel",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-64820-0.pdf"
+        },
+        {
+            "title": "Lone Parenthood in the Life Course",
+            "doi": "10.1007/978-3-319-63295-7",
+            "authors": "Prof. Laura BernardiProf. Dimitri Mortelmans",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-63295-7.pdf"
+        },
+        {
+            "title": "Inside Asylum Bureaucracy: Organizing Refugee Status Determination in Austria",
+            "doi": "10.1007/978-3-319-63306-0",
+            "authors": "Dr. Julia Dahlvik",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-63306-0.pdf"
+        },
+        {
+            "title": "The Emigrant Communities of Latvia",
+            "doi": "10.1007/978-3-030-12092-4",
+            "authors": "Dr. Rita Ka\u0161aDr. Inta Mieri\u0146a",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-12092-4.pdf"
+        },
+        {
+            "title": "Mobilities of the Highly Skilled towards Switzerland",
+            "doi": "10.1007/978-3-030-21122-6",
+            "authors": "Dr. Laure Sandoz",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-21122-6.pdf"
+        },
+        {
+            "title": "Knowledge and Institutions",
+            "doi": "10.1007/978-3-319-75328-7",
+            "authors": "Prof. Johannes Gl\u00fccklerProf. Roy SuddabyProf. Regina Lenz",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-75328-7.pdf"
+        },
+        {
+            "title": "Migration in the Southern Balkans",
+            "doi": "10.1007/978-3-319-13719-3",
+            "authors": "Hans VermeulenMartin Baldwin-EdwardsRiki van Boeschoten",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-13719-3.pdf"
+        },
+        {
+            "title": "Die Praxis kollektiven Handelns",
+            "doi": "10.1007/978-3-658-24945-8",
+            "authors": "Robert Jungmann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-24945-8.pdf"
+        },
+        {
+            "title": "Enabling Sustainable Energy Transitions",
+            "doi": "10.1007/978-3-030-26891-6",
+            "authors": "Siddharth Sareen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-26891-6.pdf"
+        },
+        {
+            "title": "Qualitative Research in European Migration Studies",
+            "doi": "10.1007/978-3-319-76861-8",
+            "authors": "Prof. Ricard Zapata-BarreroProf. Evren Yalaz",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-76861-8.pdf"
+        },
+        {
+            "title": "Comparative Perspectives on Work-Life Balance and Gender Equality",
+            "doi": "10.1007/978-3-319-42970-0",
+            "authors": "Margaret O'BrienKarin Wall",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-42970-0.pdf"
+        },
+        {
+            "title": "Social Innovations in the Urban Context",
+            "doi": "10.1007/978-3-319-21551-8",
+            "authors": "Taco BrandsenSandro CattacinAdalbert EversAnnette Zimmer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-21551-8.pdf"
+        },
+        {
+            "title": "Soziale Netzwerke und gesundheitliche Ungleichheiten",
+            "doi": "10.1007/978-3-658-21659-7",
+            "authors": "Dr. Andreas Kl\u00e4rnerDr. Markus GamperSylvia Keim - Kl\u00e4rnerDr. Irene MoorProf. Dr. Holger von der LippeDr. Nico Vonneilich",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-21659-7.pdf"
+        },
+        {
+            "title": "Protest Movements in Asylum and Deportation",
+            "doi": "10.1007/978-3-319-74696-8",
+            "authors": "Sieglinde RosenbergerVerena SternNina Merhaut",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-74696-8.pdf"
+        },
+        {
+            "title": "Methodological Investigations in Agent-Based Modelling",
+            "doi": "10.1007/978-3-319-72408-9",
+            "authors": "Ph.D. Eric Silverman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-72408-9.pdf"
+        },
+        {
+            "title": "Gesundheitsversorgung am Lebensende",
+            "doi": "10.1007/978-3-658-13347-4",
+            "authors": "Damian Hedinger",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-13347-4.pdf"
+        },
+        {
+            "title": "Integration Processes and Policies in Europe",
+            "doi": "10.1007/978-3-319-21674-4",
+            "authors": "Blanca Garc\u00e9s-Mascare\u00f1asRinus Penninx",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-21674-4.pdf"
+        },
+        {
+            "title": "Food Anxiety in Globalising Vietnam",
+            "doi": "10.1007/978-981-13-0743-0",
+            "authors": "Dr. Judith EhlertNora Katharina Faltmann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-0743-0.pdf"
+        },
+        {
+            "title": "Finding the Limits of the Limes",
+            "doi": "10.1007/978-3-030-04576-0",
+            "authors": "Dr. Philip VerhagenJamie JoyceMark R. Groenhuijzen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-04576-0.pdf"
+        },
+        {
+            "title": "Ukrainian Migration to the European Union",
+            "doi": "10.1007/978-3-319-41776-9",
+            "authors": "Olena FedyukMarta Kindler",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-41776-9.pdf"
+        },
+        {
+            "title": "Computational Conflict Research",
+            "doi": "10.1007/978-3-030-29333-8",
+            "authors": "Emanuel DeutschmannDr. Jan LorenzLuis G. NardinDavide NataliniProf. Dr. Adalbert F. X. Wilhelm",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-29333-8.pdf"
+        },
+        {
+            "title": "Gestaltung sozialer Versorgung",
+            "doi": "10.1007/978-3-658-24374-6",
+            "authors": "Prof. Dr. J\u00fcrgen StremlowWerner RiedwegHerbert B\u00fcrgisser",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-24374-6.pdf"
+        },
+        {
+            "title": "Geographies of Asylum in Europe and the Role of European Localities",
+            "doi": "10.1007/978-3-030-25666-1",
+            "authors": "Prof. Dr. Birgit GloriusDr. Jeroen Doomernik",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-25666-1.pdf"
+        },
+        {
+            "title": "Between Mobility and Migration",
+            "doi": "10.1007/978-3-319-77991-1",
+            "authors": "Dr. Peter ScholtenDr. Mark van Ostaijen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-77991-1.pdf"
+        },
+        {
+            "title": "Sensitivity Analysis: Matrix Methods in Demography and Ecology",
+            "doi": "10.1007/978-3-030-10534-1",
+            "authors": "Prof. Hal Caswell",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-10534-1.pdf"
+        },
+        {
+            "title": "Childlessness in Europe: Contexts, Causes, and Consequences",
+            "doi": "10.1007/978-3-319-44667-7",
+            "authors": "Michaela KreyenfeldDirk Konietzka",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-44667-7.pdf"
+        },
+        {
+            "title": "Migrants and Expats: The Swiss Migration and Mobility Nexus",
+            "doi": "10.1007/978-3-030-05671-1",
+            "authors": "Dr. Ilka SteinerProf. Philippe Wanner",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-05671-1.pdf"
+        },
+        {
+            "title": "Education for Children with Disabilities in Addis Ababa, Ethiopia",
+            "doi": "10.1007/978-3-319-60768-9",
+            "authors": "Dr. Margarita Schiemer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-60768-9.pdf"
+        },
+        {
+            "title": "Building the Inclusive City",
+            "doi": "10.1007/978-3-030-32988-4",
+            "authors": "Dr. Victor Santiago Pineda",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-32988-4.pdf"
+        },
+        {
+            "title": "Nachhaltigkeit in Umwelt, Wirtschaft und Gesellschaft",
+            "doi": "10.1007/978-3-658-14439-5",
+            "authors": "Klaus-Dieter AltmeppenFrank ZschalerHans-Martin ZademachChristoph B\u00f6ttigheimerMarkus M\u00fcller",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-14439-5.pdf"
+        },
+        {
+            "title": "Mobilities of Knowledge",
+            "doi": "10.1007/978-3-319-44654-7",
+            "authors": "Heike J\u00f6nsPeter MeusburgerMichael Heffernan",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-44654-7.pdf"
+        },
+        {
+            "title": "Bildungsverl\u00e4ufe von der Einschulung bis in den ersten Arbeitsmarkt",
+            "doi": "10.1007/978-3-658-16981-7",
+            "authors": "Prof. Dr. Markus P. NeuenschwanderChristof N\u00e4gele",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-16981-7.pdf"
+        },
+        {
+            "title": "New Methods for Measuring and Analyzing Segregation",
+            "doi": "10.1007/978-3-319-41304-4",
+            "authors": "Prof. Dr. Mark Fossett",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-41304-4.pdf"
+        },
+        {
+            "title": "Maritime Spatial Planning",
+            "doi": "10.1007/978-3-319-98696-8",
+            "authors": "Prof. Jacek ZauchaDr. Kira Gee",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-98696-8.pdf"
+        },
+        {
+            "title": "Old and New Perspectives on Mortality Forecasting",
+            "doi": "10.1007/978-3-030-05075-7",
+            "authors": "Prof. Dr. Tommy BengtssonProf. Dr. Nico Keilman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-05075-7.pdf"
+        },
+        {
+            "title": "Ethnic Identity, Social Mobility and the Role of Soulmates",
+            "doi": "10.1007/978-3-319-99596-0",
+            "authors": "Marieke Slootman",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-99596-0.pdf"
+        },
+        {
+            "title": "Feeling Gender",
+            "doi": "10.1057/978-1-349-95082-9",
+            "authors": "Harriet Bjerrum Nielsen",
+            "url": "https://link.springer.com/content/pdf/10.1057/978-1-349-95082-9.pdf"
+        },
+        {
+            "title": "Politics of (Dis)Integration",
+            "doi": "10.1007/978-3-030-25089-8",
+            "authors": "Sophie HingerPh.D. Reinhard Schweitzer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-25089-8.pdf"
+        },
+        {
+            "title": "Impact of Information Society Research in the Global South",
+            "doi": "10.1007/978-981-287-381-1",
+            "authors": "Arul ChibJulian MayRoxana Barrantes",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-287-381-1.pdf"
+        },
+        {
+            "title": "Communicating, Networking: Interacting",
+            "doi": "10.1007/978-3-319-45471-9",
+            "authors": "Margaret E. Robertson",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-45471-9.pdf"
+        },
+        {
+            "title": "Religi\u00f6se Rituale und soziale Ordnung",
+            "doi": "10.1007/978-3-658-27594-5",
+            "authors": "Prof. Dr. Rafael Walthert",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-27594-5.pdf"
+        },
+        {
+            "title": "Contemporary Turkey at a Glance",
+            "doi": "10.1007/978-3-658-04916-4",
+            "authors": "Kristina KampAyhan KayaE. Fuat KeymanOzge Onursal Besgul",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-04916-4.pdf"
+        },
+        {
+            "title": "Indigenous Life Projects and Extractivism",
+            "doi": "10.1007/978-3-319-93435-8",
+            "authors": "Cecilie Vindal \u00d8degaardJuan Javier Rivera And\u00eda",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-93435-8.pdf"
+        },
+        {
+            "title": "Integrating Immigrants in Europe",
+            "doi": "10.1007/978-3-319-16256-0",
+            "authors": "Peter ScholtenHan EntzingerRinus PenninxStijn Verbeek",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-16256-0.pdf"
+        },
+        {
+            "title": "A Demographic Perspective on Gender, Family and Health in Europe",
+            "doi": "10.1007/978-3-319-72356-3",
+            "authors": "Prof. Dr. Gabriele DoblhammerJordi Gum\u00e0",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-72356-3.pdf"
+        },
+        {
+            "title": "Towards a Systemic Theory of Irregular Migration",
+            "doi": "10.1007/978-3-030-40903-6",
+            "authors": "Dr. Gabriel Echeverr\u00eda",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-40903-6.pdf"
+        },
+        {
+            "title": "The Plight of Older Workers",
+            "doi": "10.1007/978-3-319-39754-2",
+            "authors": "Isabel Baumann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-39754-2.pdf"
+        },
+        {
+            "title": "Quartier und Demokratie",
+            "doi": "10.1007/978-3-658-26235-8",
+            "authors": "Dr. Olaf SchnurProf. Dr. Matthias DrillingOliver Niermann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-26235-8.pdf"
+        },
+        {
+            "title": "Survey-Welten",
+            "doi": "10.1007/978-3-658-25437-7",
+            "authors": "Dr. Raphael Vogel",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-25437-7.pdf"
+        },
+        {
+            "title": "Altern im Wandel",
+            "doi": "10.1007/978-3-658-12502-8",
+            "authors": "Katharina MahneJulia Katharina WolffJulia SimonsonClemens Tesch-R\u00f6mer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-12502-8.pdf"
+        },
+        {
+            "title": "Transdisziplin\u00e4r und transformativ forschen, Band 2",
+            "doi": "10.1007/978-3-658-27135-0",
+            "authors": "Rico DefilaDr. Antonietta Di Giulio",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-27135-0.pdf"
+        },
+        {
+            "title": "Socioeconomic and Environmental Implications of Agricultural Residue Burning",
+            "doi": "10.1007/978-81-322-2014-5",
+            "authors": "Parmod KumarSurender KumarLaxmi Joshi",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-81-322-2014-5.pdf"
+        },
+        {
+            "title": "Retirement Home? Ageing Migrant Workers in France and the Question of Return",
+            "doi": "10.1007/978-3-319-64976-4",
+            "authors": "Alistair Hunter",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-64976-4.pdf"
+        },
+        {
+            "title": "Social Justice Theory and Practice for Social Work",
+            "doi": "10.1007/978-981-13-3621-8",
+            "authors": "Dr. Lynelle WattsDr. David Hodgson",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-981-13-3621-8.pdf"
+        },
+        {
+            "title": "Quantitative Methods for the Social Sciences",
+            "doi": "10.1007/978-3-319-99118-4",
+            "authors": "Dr. Daniel Stockemer",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-99118-4.pdf"
+        },
+        {
+            "title": "Soziologie von Gesundheit und Krankheit",
+            "doi": "10.1007/978-3-658-11010-9",
+            "authors": "Matthias RichterKlaus Hurrelmann",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-11010-9.pdf"
+        },
+        {
+            "title": "Handbook of LGBT Elders",
+            "doi": "10.1007/978-3-319-03623-6",
+            "authors": "Debra A. HarleyPamela B. Teaster",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-03623-6.pdf"
+        },
+        {
+            "title": "Analyzing Qualitative Data with MAXQDA",
+            "doi": "10.1007/978-3-030-15671-8",
+            "authors": "Prof. Dr. Udo KuckartzDr. Stefan R\u00e4diker",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-15671-8.pdf"
+        },
+        {
+            "title": "Kultur. Theorien der Gegenwart",
+            "doi": "10.1007/978-3-531-92056-6",
+            "authors": "Stephan MoebiusDirk Quadflieg",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-531-92056-6.pdf"
+        },
+        {
+            "title": "International Handbook of Historical Archaeology",
+            "doi": "10.1007/978-0-387-72071-5",
+            "authors": "David GaimsterTeresita Majewski",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-0-387-72071-5.pdf"
+        },
+        {
+            "title": "Political Social Work",
+            "doi": "10.1007/978-3-319-68588-5",
+            "authors": "Shannon R. LaneSuzanne Pritzker",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-68588-5.pdf"
+        },
+        {
+            "title": "Handbook of Evolutionary Research in Archaeology",
+            "doi": "10.1007/978-3-030-11117-5",
+            "authors": "Anna Marie Prentiss",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-11117-5.pdf"
+        },
+        {
+            "title": "An Introduction to Zooarchaeology",
+            "doi": "10.1007/978-3-319-65682-3",
+            "authors": "Diane Gifford-Gonzalez",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-65682-3.pdf"
+        },
+        {
+            "title": "Handbook of Disaster Research",
+            "doi": "10.1007/978-0-387-32353-4",
+            "authors": "Havid\u00e1n Rodr\u00edguezEnrico L. QuarantelliRussell R. Dynes",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-0-387-32353-4.pdf"
+        },
+        {
+            "title": "Concepts, Methods and Practical Applications in Applied Demography",
+            "doi": "10.1007/978-3-319-65439-3",
+            "authors": "Ph.D. Richard K. Thomas",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-65439-3.pdf"
+        },
+        {
+            "title": "Handbook of Sociological Theory",
+            "doi": "10.1007/0-387-36274-6",
+            "authors": "Jonathan H. Turner",
+            "url": "https://link.springer.com/content/pdf/10.1007/0-387-36274-6.pdf"
+        },
+        {
+            "title": "Handbook of the Sociology of Gender",
+            "doi": "10.1007/0-387-36218-5",
+            "authors": "Janet Saltzman Chafetz",
+            "url": "https://link.springer.com/content/pdf/10.1007/0-387-36218-5.pdf"
+        },
+        {
+            "title": "Handbook of Marriage and the Family",
+            "doi": "10.1007/978-1-4614-3987-5",
+            "authors": "Gary W. PetersonKevin R. Bush",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4614-3987-5.pdf"
+        },
+        {
+            "title": "Handbook of the Life Course",
+            "doi": "10.1007/b100507",
+            "authors": "Jeylan T. MortimerMichael J. Shanahan",
+            "url": "https://link.springer.com/content/pdf/10.1007/b100507.pdf"
+        },
+        {
+            "title": "LGBT-Parent Families",
+            "doi": "10.1007/978-1-4614-4556-2",
+            "authors": "Abbie E. GoldbergKatherine R. Allen",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-1-4614-4556-2.pdf"
+        },
+        {
+            "title": "Fragebogen",
+            "doi": "10.1007/978-3-658-02118-4",
+            "authors": "Rolf Porst",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-02118-4.pdf"
+        },
+        {
+            "title": "Disability and Vocational Rehabilitation in Rural Settings",
+            "doi": "10.1007/978-3-319-64786-9",
+            "authors": "Debra A. HarleyNoel A. YsasiMalachy L. BishopAllison R. Fleming",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-64786-9.pdf"
+        }
+    ]
+}
