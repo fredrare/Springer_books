@@ -4,7 +4,7 @@ Get free books from springer for a given category
 ## Out of the box
 You can use this command to run the script
 ```bash
-./books.py books.json output
+./books.py list.json output
 ```
 This way, the books from the categories you select will be downloaded in
 the output folder. books.json contains a list of books grouped by
