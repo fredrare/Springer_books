@@ -53,22 +53,34 @@ def main(filename, path):
     mkdir(path)
     with open(filename) as file:
         _json = json.loads(''.join(file.readlines()).replace('\n',''))
+    
     categories = list(_json.keys())
     categories_prompt = ['{} ({} books)'.format(item, len(_json[item])) for item in categories]
     choices = choose('Select a category: ', categories_prompt)
     choices = [categories[i] for i in choices]
+
+    total_books_chosen = 0
+    for category in choices:
+        total_books_chosen += len(_json[category])
+
+    current_book_n = 1
     for category in choices:
         print('{} Getting books from {} {}'.format('*'*10, category, '*'*10))
         subPath = '{}/{}'.format(path, category)
         mkdir(subPath)
         books = next(os.walk(subPath))[2]
+
         for book in _json[category]:
+            perc_progress = current_book_n / total_books_chosen
+
             if book['title'].replace('/', '-') + '.pdf' not in books:
-                print('-> Getting book: {}'.format(book['title']))
+                print('[{:.0%}]-> Getting book: {}'.format(perc_progress, book['title']))
                 filename = name_to_pdf(book['title'], subPath)
                 downloader(book['url'], filename)
             else:
                 print('-> Already here: {}'.format(book['title']))
+            
+            current_book_n += 1
 
 if __name__ == '__main__':
     if len(sys.argv) < 3:
