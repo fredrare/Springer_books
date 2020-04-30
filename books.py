@@ -78,7 +78,7 @@ def main(filename, path):
                 filename = name_to_pdf(book['title'], subPath)
                 downloader(book['url'], filename)
             else:
-                print('-> Already here: {}'.format(book['title']))
+                print('[{:.0%}]-> Already here: {}'.format(perc_progress, book['title']))
             
             current_book_n += 1
 
